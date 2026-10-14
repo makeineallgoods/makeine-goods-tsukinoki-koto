@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-14",
+  "categories": [
+    {
+      "id": "accessory",
+      "name_zh": "随身配件",
+      "name_ja": "アクセサリー"
+    },
+    {
+      "id": "acrylic_art",
+      "name_zh": "亚克力艺术板",
+      "name_ja": "アクリルアート"
+    },
+    {
+      "id": "acrylic_keychain",
+      "name_zh": "亚克力挂件",
+      "name_ja": "アクリルキーホルダー"
+    },
+    {
+      "id": "acrylic_stand",
+      "name_zh": "亚克力立牌",
+      "name_ja": "アクリルスタンド"
+    },
+    {
+      "id": "apparel",
+      "name_zh": "服饰",
+      "name_ja": "アパレル"
+    },
+    {
+      "id": "bag",
+      "name_zh": "包袋",
+      "name_ja": "バッグ"
+    },
+    {
+      "id": "can_badge",
+      "name_zh": "徽章",
+      "name_ja": "缶バッジ"
+    },
+    {
+      "id": "card",
+      "name_zh": "卡片／色纸",
+      "name_ja": "カード／色紙"
+    },
+    {
+      "id": "clear_file",
+      "name_zh": "透明文件夹",
+      "name_ja": "クリアファイル"
+    },
+    {
+      "id": "fabric_goods",
+      "name_zh": "布艺制品",
+      "name_ja": "布製品"
+    },
+    {
+      "id": "stationery",
+      "name_zh": "文具",
+      "name_ja": "文房具"
+    },
+    {
+      "id": "sticker",
+      "name_zh": "贴纸",
+      "name_ja": "ステッカー"
+    },
+    {
+      "id": "tableware",
+      "name_zh": "餐具",
+      "name_ja": "食器"
+    },
+    {
+      "id": "tapestry",
+      "name_zh": "挂毯",
+      "name_ja": "タペストリー"
+    }
+  ]
+}

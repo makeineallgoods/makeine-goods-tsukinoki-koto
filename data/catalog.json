@@ -1,0 +1,6414 @@
+{
+  "schema_version": 2,
+  "registry_version": "2026-10-14",
+  "catalog": {
+    "title": "月之木古都制品图鉴",
+    "scope": "《败犬女主太多了！》中明确包含月之木古都的官方实体制品",
+    "updated_at": "2026-10-14",
+    "status": "collecting"
+  },
+  "character": {
+    "id": "tsukinoki-koto",
+    "name_zh": "月之木古都",
+    "name_ja": "月之木古都",
+    "name_en": "Koto Tsukinoki",
+    "aliases": []
+  },
+  "items": [
+    {
+      "id": "amnibus-chibitoko-acrylic-card",
+      "global_product_id": "amnibus-chibitoko-acrylic-card",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディング ちびとこ アクリルカード",
+      "name_zh": "ちびとこ 随机亚克力卡",
+      "category_id": "card",
+      "campaign_id": "amnibus-chibitoko-2024",
+      "manufacturer_id": "arma-bianca",
+      "variant": "随机9款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 715,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-chibitoko-acrylic-card.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-chibitoko-acrylic-card.webp",
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20241024155956_6719f06c48a2f3.53152730.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AMNIBUS",
+          "phase": "general_sale",
+          "url": "https://amnibus.com/products/detail/73851"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://amnibus.com/products/detail/73851",
+          "type": "official",
+          "checked_at": "2026-10-02"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "ちびとこ",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-chibitoko-parts-stand",
+      "global_product_id": "amnibus-chibitoko-parts-stand",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディング ちびとこ パーツ付きアクリルスタンド",
+      "name_zh": "ちびとこ 随机带配件亚克力立牌",
+      "category_id": "acrylic_stand",
+      "campaign_id": "amnibus-chibitoko-2024",
+      "manufacturer_id": "arma-bianca",
+      "variant": "随机9款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": "本体最大约48×28mm；厚3mm",
+        "material": "亚克力"
+      },
+      "release_date": null,
+      "list_price_yen": 880,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-chibitoko-parts-stand.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-chibitoko-parts-stand.webp",
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20240909175234_66deb752c732e3.90275652.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AMNIBUS",
+          "phase": "general_sale",
+          "url": "https://amnibus.com/products/detail/73979"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000006757.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-02"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "ちびとこ",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-chibitoko-matte-badge",
+      "global_product_id": "amnibus-chibitoko-matte-badge",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディング ちびとこ マット缶バッジ",
+      "name_zh": "ちびとこ 随机磨砂徽章",
+      "category_id": "can_badge",
+      "campaign_id": "amnibus-chibitoko-2024",
+      "manufacturer_id": "arma-bianca",
+      "variant": "随机9款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": "直径约56mm",
+        "material": "纸、马口铁"
+      },
+      "release_date": null,
+      "list_price_yen": 495,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-chibitoko-matte-badge.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-chibitoko-matte-badge.webp",
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20240909175326_66deb786033f86.41842659.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AMNIBUS",
+          "phase": "general_sale",
+          "url": "https://amnibus.com/products/detail/73852"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000006757.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-02"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "ちびとこ",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-j2026001401",
+      "global_product_id": "gagaga-j2026001401",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "『負けヒロインが多すぎる！』書影アクリルキーホルダー（1）",
+      "name_zh": "小说封面亚克力挂件（1）",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "book-cover-series",
+      "manufacturer_id": "gagaga-shop-online",
+      "variant": "封面图（1）包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J2026001401.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260001-01.jpg",
+          "thumbnail_path": "images/thumbs/gagaga-J2026001401.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ2026001401/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ2026001401/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "封面",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "contents-seed-diorama-koto-shikiya",
+      "global_product_id": "contents-seed-diorama-koto-shikiya",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "アクリルジオラマ 月之木古都＆志喜屋夢子",
+      "name_zh": "Contents Seed 亚克力场景立牌 月之木古都＆志喜屋梦子",
+      "category_id": "acrylic_stand",
+      "campaign_id": "contents-seed-2025",
+      "manufacturer_id": "contents-seed",
+      "variant": "月之木古都＆志喜屋梦子",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "组装后约H166×W142mm",
+        "material": "亚克力"
+      },
+      "release_date": "2025-04-30",
+      "list_price_yen": 2750,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/contents-seed-diorama-koto-shikiya.jpg",
+          "thumbnail_path": "images/thumbs/contents-seed-diorama-koto-shikiya.webp",
+          "role": "product",
+          "source_url": "https://anime-store.jp/cdn/shop/files/4570179732386_001_48872241-c181-406f-86cb-9f22ce8c6c0d_1200x1200.jpg?v=1741216052"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Anime Store.JP",
+          "phase": "general_sale",
+          "url": "https://anime-store.jp/products/4570179732386"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://anime-store.jp/products/4570179732386",
+          "type": "official",
+          "checked_at": "2026-10-05"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Contents Seed",
+        "官方插画",
+        "月之木古都"
+      ],
+      "notes": "JAN 4570179732386；双人商品在角色图鉴中记录一次。"
+    },
+    {
+      "id": "angel-devil-tshirt",
+      "global_product_id": "angel-devil-tshirt",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "Tシャツ 天使＆悪魔",
+      "name_zh": "天使与恶魔 T恤",
+      "category_id": "apparel",
+      "campaign_id": "curtain-damashii-angel-devil-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "集合图含月之木古都",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-09-29",
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/angel-devil-tshirt.jpg",
+          "thumbnail_path": "images/thumbs/angel-devil-tshirt.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/tshirt_makeine02_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/tshirt_makeine02/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/tshirt_makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "天使＆悪魔",
+        "天使与恶魔",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "angel-devil-tote",
+      "global_product_id": "angel-devil-tote",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トートバッグ 天使＆悪魔",
+      "name_zh": "天使与恶魔 托特包",
+      "category_id": "bag",
+      "campaign_id": "curtain-damashii-angel-devil-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "集合图含月之木古都",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-09-29",
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/angel-devil-tote.jpg",
+          "thumbnail_path": "images/thumbs/angel-devil-tote.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/totebag_makeine02_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/totebag_makeine02/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/totebag_makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "天使＆悪魔",
+        "天使与恶魔",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "angel-devil-rubbermat",
+      "global_product_id": "angel-devil-rubbermat",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ラバーマット 天使＆悪魔",
+      "name_zh": "天使与恶魔 橡胶桌垫",
+      "category_id": "stationery",
+      "campaign_id": "curtain-damashii-angel-devil-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "集合图含月之木古都",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-09-29",
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/angel-devil-rubbermat.jpg",
+          "thumbnail_path": "images/thumbs/angel-devil-rubbermat.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/rubbermat_makeine02_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/rubbermat_makeine02/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/rubbermat_makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "天使＆悪魔",
+        "天使与恶魔",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "angel-devil-noren",
+      "global_product_id": "angel-devil-noren",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "のれん 天使＆悪魔",
+      "name_zh": "天使与恶魔 门帘",
+      "category_id": "fabric_goods",
+      "campaign_id": "curtain-damashii-angel-devil-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "集合图含月之木古都",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-09-29",
+      "list_price_yen": 3960,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/angel-devil-noren.jpg",
+          "thumbnail_path": "images/thumbs/angel-devil-noren.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/noren_makeine02_heya.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/noren_makeine02/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/noren_makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "天使＆悪魔",
+        "天使与恶魔",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "angel-devil-trading-badge",
+      "global_product_id": "angel-devil-trading-badge",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディング缶バッジBOX（天使＆悪魔）11個入り",
+      "name_zh": "天使与恶魔 随机徽章 月之木古都款",
+      "category_id": "can_badge",
+      "campaign_id": "curtain-damashii-angel-devil-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "月之木古都款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 11
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-09-29",
+      "list_price_yen": 495,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/angel-devil-trading-badge.jpg",
+          "thumbnail_path": "images/thumbs/angel-devil-trading-badge.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/badgebox_makeine02_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/badgebox_makeine02/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/badgebox_makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "天使＆悪魔",
+        "天使与恶魔",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "devil-keychain-koto",
+      "global_product_id": "devil-keychain-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "アクリルキーホルダー 月之木古都 悪魔",
+      "name_zh": "恶魔主题 亚克力挂件 月之木古都",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "curtain-damashii-angel-devil-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/devil-keychain-koto.jpg",
+          "thumbnail_path": "images/thumbs/devil-keychain-koto.webp",
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/keyholderacr_makeine15_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメイト",
+          "phase": "general_sale",
+          "url": "https://www.curtain-damashii.com/item/keyholderacr_makeine15/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/keyholderacr_makeine15/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "天使与恶魔",
+        "月之木古都"
+      ],
+      "notes": "Curtain Damashii 官方角色商品页。"
+    },
+    {
+      "id": "devil-stand-koto",
+      "global_product_id": "devil-stand-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "アクリルスタンド 月之木古都 悪魔",
+      "name_zh": "恶魔主题 亚克力立牌 月之木古都",
+      "category_id": "acrylic_stand",
+      "campaign_id": "curtain-damashii-angel-devil-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 1210,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/devil-stand-koto.jpg",
+          "thumbnail_path": "images/thumbs/devil-stand-koto.webp",
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/astand_makeine15_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメイト",
+          "phase": "general_sale",
+          "url": "https://www.curtain-damashii.com/item/astand_makeine15/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/astand_makeine15/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "天使与恶魔",
+        "月之木古都"
+      ],
+      "notes": "Curtain Damashii 官方角色商品页。"
+    },
+    {
+      "id": "devil-block-koto",
+      "global_product_id": "devil-block-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "変形アクリルブロック 月之木古都 悪魔",
+      "name_zh": "恶魔主题 异形亚克力块 月之木古都",
+      "category_id": "acrylic_art",
+      "campaign_id": "curtain-damashii-angel-devil-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/devil-block-koto.jpg",
+          "thumbnail_path": "images/thumbs/devil-block-koto.webp",
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/ablock_makeine15_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメイト",
+          "phase": "general_sale",
+          "url": "https://www.curtain-damashii.com/item/ablock_makeine15/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/ablock_makeine15/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "天使与恶魔",
+        "月之木古都"
+      ],
+      "notes": "Curtain Damashii 官方角色商品页。"
+    },
+    {
+      "id": "cider-tshirt",
+      "global_product_id": "cider-tshirt",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "Tシャツ サイダー",
+      "name_zh": "汽水主题 T恤",
+      "category_id": "apparel",
+      "campaign_id": "curtain-damashii-cider-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "集合图含月之木古都",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-07-09",
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/cider-tshirt.jpg",
+          "thumbnail_path": "images/thumbs/cider-tshirt.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/tshirt_makeine01_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/tshirt_makeine01/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/tshirt_makeine01/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "サイダー",
+        "汽水主题",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "cider-acrylic-block-koto",
+      "global_product_id": "cider-acrylic-block-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "アクリルブロック 月之木古都 サイダー",
+      "name_zh": "汽水主题 亚克力块 月之木古都",
+      "category_id": "acrylic_art",
+      "campaign_id": "curtain-damashii-cider-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/cider-acrylic-block-koto.jpg",
+          "thumbnail_path": "images/thumbs/cider-acrylic-block-koto.webp",
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/ablock_makeine06_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメイト",
+          "phase": "general_sale",
+          "url": "https://www.curtain-damashii.com/item/ablock_makeine06/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/ablock_makeine06/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "汽水主题",
+        "月之木古都"
+      ],
+      "notes": "Curtain Damashii 官方角色商品页。"
+    },
+    {
+      "id": "cider-keychain-koto",
+      "global_product_id": "cider-keychain-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "アクリルキーホルダー 月之木古都 サイダー",
+      "name_zh": "汽水主题 亚克力挂件 月之木古都",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "curtain-damashii-cider-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/cider-keychain-koto.jpg",
+          "thumbnail_path": "images/thumbs/cider-keychain-koto.webp",
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/keyholderacr_makeine06_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメイト",
+          "phase": "general_sale",
+          "url": "https://www.curtain-damashii.com/item/keyholderacr_makeine06/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/keyholderacr_makeine06/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "汽水主题",
+        "月之木古都"
+      ],
+      "notes": "Curtain Damashii 官方角色商品页。"
+    },
+    {
+      "id": "cider-tote",
+      "global_product_id": "cider-tote",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トートバッグ サイダー",
+      "name_zh": "汽水主题 托特包",
+      "category_id": "bag",
+      "campaign_id": "curtain-damashii-cider-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "集合图含月之木古都",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-07-09",
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/cider-tote.jpg",
+          "thumbnail_path": "images/thumbs/cider-tote.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/totebag_makeine01_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/totebag_makeine01/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/totebag_makeine01/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "サイダー",
+        "汽水主题",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "cider-rubbermat",
+      "global_product_id": "cider-rubbermat",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ラバーマット サイダー",
+      "name_zh": "汽水主题 橡胶桌垫",
+      "category_id": "stationery",
+      "campaign_id": "curtain-damashii-cider-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "集合图含月之木古都",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-07-09",
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/cider-rubbermat.jpg",
+          "thumbnail_path": "images/thumbs/cider-rubbermat.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/rubbermat_makeine01_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/rubbermat_makeine01/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/rubbermat_makeine01/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "サイダー",
+        "汽水主题",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "cider-mini-stand-koto",
+      "global_product_id": "cider-mini-stand-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ミニアクリルスタンド 月之木古都 サイダー",
+      "name_zh": "汽水主题 迷你亚克力立牌 月之木古都",
+      "category_id": "acrylic_stand",
+      "campaign_id": "curtain-damashii-cider-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/cider-mini-stand-koto.jpg",
+          "thumbnail_path": "images/thumbs/cider-mini-stand-koto.webp",
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/astand_makeine06-mini_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメイト",
+          "phase": "general_sale",
+          "url": "https://www.curtain-damashii.com/item/astand_makeine06-mini/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/astand_makeine06-mini/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "汽水主题",
+        "月之木古都"
+      ],
+      "notes": "Curtain Damashii 官方角色商品页。"
+    },
+    {
+      "id": "cider-noren",
+      "global_product_id": "cider-noren",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "のれん サイダー",
+      "name_zh": "汽水主题 门帘",
+      "category_id": "fabric_goods",
+      "campaign_id": "curtain-damashii-cider-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "集合图含月之木古都",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-07-09",
+      "list_price_yen": 3960,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/cider-noren.jpg",
+          "thumbnail_path": "images/thumbs/cider-noren.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/noren_makeine01_2.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/noren_makeine01/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/noren_makeine01/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "サイダー",
+        "汽水主题",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "cider-trading-badge",
+      "global_product_id": "cider-trading-badge",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディング缶バッジBOX（サイダー）9個入り",
+      "name_zh": "汽水主题 随机徽章 月之木古都款",
+      "category_id": "can_badge",
+      "campaign_id": "curtain-damashii-cider-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "月之木古都款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-07-09",
+      "list_price_yen": 495,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/cider-trading-badge.jpg",
+          "thumbnail_path": "images/thumbs/cider-trading-badge.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/badgebox_makeine01_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/badgebox_makeine01/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/badgebox_makeine01/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "サイダー",
+        "汽水主题",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "eternorecit-stickers",
+      "global_product_id": "eternorecit-stickers",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "フレークシールセット 全8種",
+      "name_zh": "Eterno Recit 8款散装贴纸套装",
+      "category_id": "sticker",
+      "campaign_id": "eterno-recit-heart",
+      "manufacturer_id": "eterno-recit",
+      "variant": "套装内含月之木古都",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 770,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/eternorecit-stickers.jpg",
+          "thumbnail_path": "images/thumbs/eternorecit-stickers.webp",
+          "role": "lineup",
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino012.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Eterno Récit",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3277883/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "套装",
+        "月之木古都"
+      ],
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
+    },
+    {
+      "id": "eternorecit-trading-badge",
+      "global_product_id": "eternorecit-trading-badge",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディング缶バッジ 全8種",
+      "name_zh": "Eterno Recit 随机徽章",
+      "category_id": "can_badge",
+      "campaign_id": "eterno-recit-heart",
+      "manufacturer_id": "eterno-recit",
+      "variant": "随机全8款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 8
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/eternorecit-trading-badge.jpg",
+          "thumbnail_path": "images/thumbs/eternorecit-trading-badge.webp",
+          "role": "lineup",
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino001.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Eterno Récit",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3277872/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "随机",
+        "月之木古都"
+      ],
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
+    },
+    {
+      "id": "eternorecit-tshirt-koto",
+      "global_product_id": "eternorecit-tshirt-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "Tシャツ 月之木古都",
+      "name_zh": "Eterno Récit T恤 月之木古都",
+      "category_id": "apparel",
+      "campaign_id": "eterno-recit-heart",
+      "manufacturer_id": "eterno-recit",
+      "variant": "全6款中的月之木古都款；M／L／XL",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": "M／L／XL",
+        "material": "棉100%"
+      },
+      "release_date": "2025-09-12",
+      "list_price_yen": 4400,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/eternorecit-tshirt-koto.jpg",
+          "thumbnail_path": "images/thumbs/eternorecit-tshirt-koto.webp",
+          "role": "lineup",
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino035-040.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Eterno Récit",
+          "phase": "general_sale",
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Eterno Récit",
+        "爱心Q版",
+        "月之木古都"
+      ],
+      "notes": "官方商品阵容图明确列出月之木古都。"
+    },
+    {
+      "id": "eternorecit-nameplate-koto",
+      "global_product_id": "eternorecit-nameplate-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "アクリル名札プレート 月之木古都",
+      "name_zh": "Eterno Récit 亚克力名牌 月之木古都",
+      "category_id": "accessory",
+      "campaign_id": "eterno-recit-heart",
+      "manufacturer_id": "eterno-recit",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约38×69mm",
+        "material": "亚克力、PMMA、黄铜、钢"
+      },
+      "release_date": "2025-09-12",
+      "list_price_yen": 770,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [],
+      "sales": [
+        {
+          "seller": "Eterno Récit",
+          "phase": "general_sale",
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Eterno Récit",
+        "爱心Q版",
+        "月之木古都"
+      ],
+      "notes": "Eterno Récit 官方联动页明确列出月之木古都款；官网原商品图地址当前返回 404，暂不以角色立绘或其他角色单品图代替。"
+    },
+    {
+      "id": "eternorecit-keychain-koto",
+      "global_product_id": "eternorecit-keychain-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "アクリルキーホルダー 月之木古都",
+      "name_zh": "Eterno Récit 亚克力挂件 月之木古都",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "eterno-recit-heart",
+      "manufacturer_id": "eterno-recit",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "角色挂件约40×35mm；姓名挂件约78×37mm",
+        "material": "亚克力、合金"
+      },
+      "release_date": "2025-09-12",
+      "list_price_yen": 880,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [],
+      "sales": [
+        {
+          "seller": "Eterno Récit",
+          "phase": "general_sale",
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Eterno Récit",
+        "爱心Q版",
+        "月之木古都"
+      ],
+      "notes": "Eterno Récit 官方联动页明确列出月之木古都款；官网原商品图地址当前返回 404，暂不以角色立绘或其他角色单品图代替。"
+    },
+    {
+      "id": "eternorecit-stand-keyholder-koto",
+      "global_product_id": "eternorecit-stand-keyholder-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "アクリルスタンドキーホルダー 月之木古都",
+      "name_zh": "Eterno Récit 亚克力立牌挂件 月之木古都",
+      "category_id": "acrylic_stand",
+      "campaign_id": "eterno-recit-heart",
+      "manufacturer_id": "eterno-recit",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "长边约115mm×短边约100mm",
+        "material": "亚克力、合金"
+      },
+      "release_date": "2025-09-12",
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [],
+      "sales": [
+        {
+          "seller": "Eterno Récit",
+          "phase": "general_sale",
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Eterno Récit",
+        "爱心Q版",
+        "月之木古都"
+      ],
+      "notes": "Eterno Récit 官方联动页明确列出月之木古都款；官网原商品图地址当前返回 404，暂不以角色立绘或其他角色单品图代替。"
+    },
+    {
+      "id": "eternorecit-sacoche-koto",
+      "global_product_id": "eternorecit-sacoche-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "サコッシュ 月之木古都",
+      "name_zh": "Eterno Récit 单肩挎包 月之木古都",
+      "category_id": "bag",
+      "campaign_id": "eterno-recit-heart",
+      "manufacturer_id": "eterno-recit",
+      "variant": "全6款中的月之木古都款",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": "本体约170×240×30mm；肩带宽约25mm、长约65-125cm",
+        "material": "聚酯纤维、合金"
+      },
+      "release_date": "2025-09-12",
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/eternorecit-sacoche-koto.jpg",
+          "thumbnail_path": "images/thumbs/eternorecit-sacoche-koto.webp",
+          "role": "lineup",
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino029-034.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Eterno Récit",
+          "phase": "general_sale",
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Eterno Récit",
+        "爱心Q版",
+        "月之木古都"
+      ],
+      "notes": "官方商品阵容图明确列出月之木古都。"
+    },
+    {
+      "id": "eternorecit-mini-card-set-b",
+      "global_product_id": "eternorecit-mini-card-set-b",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ミニイラストカードセット Bver.",
+      "name_zh": "Eterno Récit 迷你插画卡套装 B",
+      "category_id": "card",
+      "campaign_id": "eterno-recit-heart",
+      "manufacturer_id": "eterno-recit",
+      "variant": "月之木古都、志喜屋梦子、放虎原云雀、马剃天爱星",
+      "sale_format": {
+        "type": "set",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": "91×55mm",
+        "material": "纸、PP"
+      },
+      "release_date": "2025-09-12",
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/eternorecit-mini-card-set-b.jpg",
+          "thumbnail_path": "images/thumbs/eternorecit-mini-card-set-b.webp",
+          "role": "lineup",
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino003.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Eterno Récit",
+          "phase": "general_sale",
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Eterno Récit",
+        "爱心Q版",
+        "月之木古都"
+      ],
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
+    },
+    {
+      "id": "eternorecit-ring-pendant-koto",
+      "global_product_id": "eternorecit-ring-pendant-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "シルバーアクセサリー リングペンダント 月之木古都",
+      "name_zh": "Eterno Récit 银饰戒指项链 月之木古都",
+      "category_id": "accessory",
+      "campaign_id": "eterno-recit-heart",
+      "manufacturer_id": "eterno-recit",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "戒围7-23号奇数号；链长50cm",
+        "material": "银925、合成粉红红宝石"
+      },
+      "release_date": "2025-09-12",
+      "list_price_yen": 16500,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/eternorecit-ring-pendant-koto.jpg",
+          "thumbnail_path": "images/thumbs/eternorecit-ring-pendant-koto.webp",
+          "role": "product",
+          "source_url": "https://truth.bahamut.com.tw/s01/202509/forum/76136/4e08521799417f7dca0bad8adfe01600.JPG"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Eterno Récit",
+          "phase": "general_sale",
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Eterno Récit",
+        "银饰",
+        "月之木古都"
+      ],
+      "notes": "Eterno Récit 官方页明确列出月之木古都款；商品图采用保留完整六人阵容的发布图，左下为月之木古都款。"
+    },
+    {
+      "id": "gagaga-j20250009",
+      "global_product_id": "gagaga-j20250009",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "『負けヒロインが多すぎる！』 アクリルキーホルダー 月之木古都",
+      "name_zh": "原作等身亚克力挂件 月之木古都",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "gagaga-original-2025",
+      "manufacturer_id": "gagaga-shop-online",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 1320,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-j20250009.jpg",
+          "thumbnail_path": "images/thumbs/gagaga-j20250009.webp",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/L/J20250009-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250009/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250009/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "GAGAGA SHOP",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-j20210101",
+      "global_product_id": "gagaga-j20210101",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "『負けヒロインが多すぎる！』 アクリルアートパネル 海水浴",
+      "name_zh": "海水浴亚克力艺术板",
+      "category_id": "acrylic_art",
+      "campaign_id": "gagaga-sea-bathing",
+      "manufacturer_id": "gagaga-shop-online",
+      "variant": "插画包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20210101.jpg",
+          "thumbnail_path": "images/thumbs/gagaga-J20210101.webp",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20210101-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20210101/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20210101/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "retro-cafe-sns-keychain-koto",
+      "global_product_id": "retro-cafe-sns-keychain-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "SNS風アクリルキーホルダー 月之木古都 レトロカフェ ver.",
+      "name_zh": "京まふ 2025 复古咖啡厅 SNS风亚克力挂件 月之木古都",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "kyomaf-2025-retro-cafe",
+      "manufacturer_id": "contents-seed",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": "约60×90mm以内",
+        "material": "亚克力"
+      },
+      "release_date": "2025-09-20",
+      "list_price_yen": 1320,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/retro-cafe-sns-keychain-koto.jpg",
+          "thumbnail_path": "images/thumbs/retro-cafe-sns-keychain-koto.webp",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/254/GOODS-04730183.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "あみあみ",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04730183"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04730183",
+          "type": "official_retail",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "月之木古都"
+      ],
+      "notes": "商品名、角色、品类及图片已按 AmiAmi 商品页核对。"
+    },
+    {
+      "id": "retro-cafe-deka-stand-koto",
+      "global_product_id": "retro-cafe-deka-stand-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "デカアクリルスタンド 月之木古都 レトロカフェ ver.",
+      "name_zh": "京まふ 2025 复古咖啡厅 大型亚克力立牌 月之木古都",
+      "category_id": "acrylic_stand",
+      "campaign_id": "kyomaf-2025-retro-cafe",
+      "manufacturer_id": "contents-seed",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": "全高约180mm以内",
+        "material": "亚克力"
+      },
+      "release_date": "2025-09-20",
+      "list_price_yen": 2200,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/retro-cafe-deka-stand-koto.jpg",
+          "thumbnail_path": "images/thumbs/retro-cafe-deka-stand-koto.webp",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/254/GOODS-04730188.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "あみあみ",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04730188"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04730188",
+          "type": "official_retail",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "月之木古都"
+      ],
+      "notes": "商品名、角色、品类及图片已按 AmiAmi 商品页核对。"
+    },
+    {
+      "id": "retro-cafe-bromide-bonus",
+      "global_product_id": "retro-cafe-bromide-bonus",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "購入特典 ブロマイド レトロカフェ ver.",
+      "name_zh": "京まふ 2025 复古咖啡厅 满额赠品照片卡",
+      "category_id": "card",
+      "campaign_id": "kyomaf-2025-retro-cafe",
+      "manufacturer_id": "contents-seed",
+      "variant": "满额赠品图案包含月之木古都",
+      "sale_format": {
+        "type": "bonus",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-09-20",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/source-9387809691cd73403084.jpg",
+          "thumbnail_path": "images/thumbs/retro-cafe-bromide-bonus.webp",
+          "role": "bonus",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/545/69812-545-4066003f8bd25f9d708fd079c0a35264-1200x625.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "THEキャラ",
+          "phase": "purchase_bonus",
+          "url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-10"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "月之木古都"
+      ],
+      "notes": "官方商品图明确包含月之木古都。"
+    },
+    {
+      "id": "retro-cafe-extra-large-tapestry-koto",
+      "global_product_id": "retro-cafe-extra-large-tapestry-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "特大タペストリー 月之木古都 レトロカフェ ver.",
+      "name_zh": "京まふ 2025 复古咖啡厅 特大挂毯 月之木古都",
+      "category_id": "tapestry",
+      "campaign_id": "kyomaf-2025-retro-cafe",
+      "manufacturer_id": "contents-seed",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": "约H1700×W600mm",
+        "material": "麂皮绒"
+      },
+      "release_date": "2025-09-20",
+      "list_price_yen": 7700,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/retro-cafe-extra-large-tapestry-koto.jpg",
+          "thumbnail_path": "images/thumbs/retro-cafe-extra-large-tapestry-koto.webp",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/254/GOODS-04730177.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "あみあみ",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04730177"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04730177",
+          "type": "official_retail",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "月之木古都"
+      ],
+      "notes": "商品名、角色、品类及图片已按 AmiAmi 商品页核对。"
+    },
+    {
+      "id": "retro-cafe-mini-acrylic-art",
+      "global_product_id": "retro-cafe-mini-acrylic-art",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ミニアクリルアート レトロカフェ ver.",
+      "name_zh": "京まふ 2025 复古咖啡厅 迷你亚克力艺术板",
+      "category_id": "acrylic_art",
+      "campaign_id": "kyomaf-2025-retro-cafe",
+      "manufacturer_id": "contents-seed",
+      "variant": "集合图案包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-09-20",
+      "list_price_yen": 2530,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/source-c5b08df7d1e42f40cdb1.jpg",
+          "thumbnail_path": "images/thumbs/retro-cafe-mini-acrylic-art.webp",
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/545/69812-545-9322f40595a8a0c34ee93623a21d9157-800x800.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "THEキャラ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-10"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "月之木古都"
+      ],
+      "notes": "官方商品图明确包含月之木古都。"
+    },
+    {
+      "id": "retro-cafe-hologram-badge",
+      "global_product_id": "retro-cafe-hologram-badge",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ホログラムカンバッジ(ランダム) レトロカフェ ver.",
+      "name_zh": "京まふ 2025 复古咖啡厅 随机镭射徽章",
+      "category_id": "can_badge",
+      "campaign_id": "kyomaf-2025-retro-cafe",
+      "manufacturer_id": "contents-seed",
+      "variant": "随机全10款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 10
+      },
+      "spec": {
+        "size": "直径约57mm",
+        "material": "ブリキ、ピン付き"
+      },
+      "release_date": "2025-09-20",
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/source-b8e8730d5fec3b8cdc05.jpg",
+          "thumbnail_path": "images/thumbs/retro-cafe-hologram-badge-kaju.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/545/69812-545-e7ce43fa0ead9c7e2cb3845a575b1f27-800x800.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "THEキャラ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-10"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "月之木古都"
+      ],
+      "notes": "官方商品图明确包含月之木古都。"
+    },
+    {
+      "id": "amnibus-nonhoi-chibi-sticker",
+      "global_product_id": "amnibus-nonhoi-chibi-sticker",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディングちびキャラ 植物＆アトラクションver. ダイカットステッカー",
+      "name_zh": "丰桥动物园 Q 版植物与游乐设施随机异形贴纸",
+      "category_id": "sticker",
+      "campaign_id": "nonhoi-park",
+      "manufacturer_id": "arma-bianca",
+      "variant": "随机16款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 16
+      },
+      "spec": {
+        "size": "最大约90×89mm",
+        "material": "紙・PP"
+      },
+      "release_date": null,
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-nonhoi-chibi-sticker.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-fa92cbae559cf87344f1dc1de57b301f-1350x1500.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-sticker.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "丰桥动物园",
+        "Q版",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-nonhoi-chibi-keychain",
+      "global_product_id": "amnibus-nonhoi-chibi-keychain",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディングちびキャラ 植物＆アトラクションver. アクリルキーホルダー",
+      "name_zh": "丰桥动物园 Q 版植物与游乐设施随机挂件",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "nonhoi-park",
+      "manufacturer_id": "arma-bianca",
+      "variant": "随机16款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 16
+      },
+      "spec": {
+        "size": "最大约65×60mm",
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 715,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-nonhoi-chibi-keychain.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-d256a6424d919730be15438b496dbb54-1350x1500.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-keychain.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "丰桥动物园",
+        "Q版",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-nonhoi-chibi-stand",
+      "global_product_id": "amnibus-nonhoi-chibi-stand",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディングちびキャラ 植物＆アトラクションver. アクリルスタンド",
+      "name_zh": "丰桥动物园 Q 版植物与游乐设施随机立牌",
+      "category_id": "acrylic_stand",
+      "campaign_id": "nonhoi-park",
+      "manufacturer_id": "arma-bianca",
+      "variant": "随机16款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 16
+      },
+      "spec": {
+        "size": "最大约64×60mm",
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 880,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-nonhoi-chibi-stand.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-03384b3555440a9ef95313855aa462e2-1350x1500.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-stand.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "丰桥动物园",
+        "Q版",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-nonhoi-chibi-badge",
+      "global_product_id": "amnibus-nonhoi-chibi-badge",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディングちびキャラ 植物＆アトラクションver. グリッター缶バッジ",
+      "name_zh": "丰桥动物园 Q 版植物与游乐设施随机闪粉徽章",
+      "category_id": "can_badge",
+      "campaign_id": "nonhoi-park",
+      "manufacturer_id": "arma-bianca",
+      "variant": "随机16款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 16
+      },
+      "spec": {
+        "size": "直径约56mm",
+        "material": "紙・ブリキ"
+      },
+      "release_date": null,
+      "list_price_yen": 605,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-nonhoi-chibi-badge.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-a6c62dd54caeaea125f83afde42cce2c-1350x1500.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-badge.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "丰桥动物园",
+        "Q版",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-nonhoi-chibi-mug",
+      "global_product_id": "amnibus-nonhoi-chibi-mug",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ちびキャラ アトラクションver. マグカップ",
+      "name_zh": "丰桥动物园 Q 版游乐设施马克杯",
+      "category_id": "tableware",
+      "campaign_id": "nonhoi-park",
+      "manufacturer_id": "arma-bianca",
+      "variant": "群像图案包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "直径约82×H95mm",
+        "material": "陶器"
+      },
+      "release_date": null,
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-nonhoi-chibi-mug.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-b88f22e3fbc32f789cc1fb3aa22cdf77-1350x1500.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-mug.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "丰桥动物园",
+        "Q版",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-j20220038",
+      "global_product_id": "gagaga-j20220038",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "『負けヒロインが多すぎる！2』 アクリルキーホルダーセット",
+      "name_zh": "小说第2卷 亚克力挂件套装",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "novel-volume-2",
+      "manufacturer_id": "gagaga-shop-online",
+      "variant": "套装图案包含月之木古都",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 2750,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20220038.jpg",
+          "thumbnail_path": "images/thumbs/gagaga-J20220038.webp",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20220038-07.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20220038/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20220038/",
+          "type": "official",
+          "checked_at": "2026-10-04"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "GAGAGA SHOP",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-j20230021",
+      "global_product_id": "gagaga-j20230021",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "『負けヒロインが多すぎる！ 4』アクリルアートパネル ～そこにはかつて自分の隣にいた、懐かしい姿があった。～",
+      "name_zh": "小说第4卷 亚克力艺术板 怀念的身影",
+      "category_id": "acrylic_art",
+      "campaign_id": "novel-volume-4",
+      "manufacturer_id": "gagaga-shop-online",
+      "variant": "插画包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20230021.jpg",
+          "thumbnail_path": "images/thumbs/gagaga-J20230021.webp",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20230021-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20230021/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20230021/",
+          "type": "official",
+          "checked_at": "2026-10-05"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-j20230057",
+      "global_product_id": "gagaga-j20230057",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "『負けヒロインが多すぎる！』6巻表紙B2タペストリー",
+      "name_zh": "小说第6卷 封面B2挂毯",
+      "category_id": "tapestry",
+      "campaign_id": "novel-volume-6",
+      "manufacturer_id": "gagaga-shop-online",
+      "variant": "封面图包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-j20230057.jpg",
+          "thumbnail_path": "images/thumbs/gagaga-j20230057.webp",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/L/J20230057.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20230057/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20230057/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "小说第6卷",
+        "GAGAGA SHOP",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-j20260025",
+      "global_product_id": "gagaga-j20260025",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "『負けヒロインが多すぎる！』×『お散歩は季節をまとって。』 アクリルキーホルダー 月之木古都",
+      "name_zh": "散步披上季节 亚克力挂件 月之木古都",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "osanpo-kisetsu",
+      "manufacturer_id": "gagaga-shop-online",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 1430,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-j20260025.jpg",
+          "thumbnail_path": "images/thumbs/gagaga-j20260025.webp",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/L/J20260025-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260025/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260025/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "GAGAGA SHOP",
+        "散步披上季节",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-j20250042",
+      "global_product_id": "gagaga-j20250042",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボアクリルキーホルダーセット B",
+      "name_zh": "竹岛水族馆联动 亚克力挂件套装 B",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "takeshima-aquarium",
+      "manufacturer_id": "gagaga-shop-online",
+      "variant": "B套装内含月之木古都",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 2420,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20250042.jpg",
+          "thumbnail_path": "images/thumbs/gagaga-J20250042.webp",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20250042-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250042/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250042/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-j20250052",
+      "global_product_id": "gagaga-j20250052",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "竹島水族館コラボ アクリルスタンド 月之木古都",
+      "name_zh": "竹岛水族馆联动 亚克力立牌 月之木古都",
+      "category_id": "acrylic_stand",
+      "campaign_id": "takeshima-aquarium",
+      "manufacturer_id": "gagaga-shop-online",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-j20250052.jpg",
+          "thumbnail_path": "images/thumbs/gagaga-j20250052.webp",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/L/J20250052-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250052/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250052/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "竹岛水族馆",
+        "GAGAGA SHOP",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-j20250045",
+      "global_product_id": "gagaga-j20250045",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボステッカーセット B",
+      "name_zh": "竹岛水族馆联动 贴纸套装 B",
+      "category_id": "sticker",
+      "campaign_id": "takeshima-aquarium",
+      "manufacturer_id": "gagaga-shop-online",
+      "variant": "B套装内含月之木古都",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 1100,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20250045.jpg",
+          "thumbnail_path": "images/thumbs/gagaga-J20250045.webp",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20250045-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250045/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250045/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-j20250056",
+      "global_product_id": "gagaga-j20250056",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボクリアファイル A",
+      "name_zh": "竹岛水族馆联动 透明文件夹 A",
+      "category_id": "clear_file",
+      "campaign_id": "takeshima-aquarium",
+      "manufacturer_id": "gagaga-shop-online",
+      "variant": "A图案包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "A4",
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20250056.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20250056-01.jpg",
+          "thumbnail_path": "images/thumbs/gagaga-J20250056.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "after_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250056/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250056/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "水族馆",
+        "群像",
+        "联动",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-j20250040",
+      "global_product_id": "gagaga-j20250040",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボランダム缶バッジ",
+      "name_zh": "竹岛水族馆联动 随机徽章",
+      "category_id": "can_badge",
+      "campaign_id": "takeshima-aquarium",
+      "manufacturer_id": "gagaga-shop-online",
+      "variant": "月之木古都款包含在随机全9种中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2026-02-18",
+      "list_price_yen": 500,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20250040.jpg",
+          "role": "lineup",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20250040-01.jpg",
+          "thumbnail_path": "images/thumbs/gagaga-J20250040.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "竹岛水族馆",
+          "phase": "event_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250040/"
+        },
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "after_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250040/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250040/",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "水族馆",
+        "随机",
+        "联动",
+        "月之木古都"
+      ],
+      "notes": "官方商品页确认盲抽规格；商品图为全9种阵容。"
+    },
+    {
+      "id": "tsutaya-heisei-gyaru-tote",
+      "global_product_id": "tsutaya-heisei-gyaru-tote",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トートバッグ 平成ギャルver.",
+      "name_zh": "平成辣妹 托特包",
+      "category_id": "bag",
+      "campaign_id": "tsutaya-heisei-gyaru-2026",
+      "manufacturer_id": "tsutaya",
+      "variant": "集合图案包含月之木古都",
+      "sale_format": {
+        "type": "set",
+        "total_variants": 2
+      },
+      "spec": {
+        "size": "W360×H370×D100mm",
+        "material": "棉100%"
+      },
+      "release_date": "2026-05-29",
+      "list_price_yen": 2750,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/source-b2f8921e3b107278b929.jpg",
+          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-tote.webp",
+          "role": "lineup",
+          "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/1Va6696Ka7/s-800x800_v-fs_webp_af94f365-1a89-47e7-a025-8680ca25c233.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TSUTAYA",
+          "phase": "general_sale",
+          "url": "https://tsutaya.tsite.jp/articles/store-5393"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tsutaya.tsite.jp/articles/store-5393",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "平成辣妹",
+        "新规绘制",
+        "月之木古都"
+      ],
+      "notes": "官方活动商品图明确包含月之木古都。"
+    },
+    {
+      "id": "tsutaya-heisei-gyaru-trading-acrylic-card",
+      "global_product_id": "tsutaya-heisei-gyaru-trading-acrylic-card",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディングアクリルカード 平成ギャルver.",
+      "name_zh": "平成辣妹 随机亚克力卡",
+      "category_id": "card",
+      "campaign_id": "tsutaya-heisei-gyaru-2026",
+      "manufacturer_id": "tsutaya",
+      "variant": "随机全5款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": "约55×90mm",
+        "material": "亚克力"
+      },
+      "release_date": "2026-05-29",
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/source-3d898c3a45204e0a135f.jpg",
+          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-trading-acrylic-card.webp",
+          "role": "lineup",
+          "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/1Va6696Ka7/s-800x800_v-fs_webp_af11c198-71ad-4a88-abd5-0bef2d84272a.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TSUTAYA",
+          "phase": "general_sale",
+          "url": "https://tsutaya.tsite.jp/articles/store-5393"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tsutaya.tsite.jp/articles/store-5393",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "平成辣妹",
+        "新规绘制",
+        "月之木古都"
+      ],
+      "notes": "官方活动商品图明确包含月之木古都。"
+    },
+    {
+      "id": "tsutaya-heisei-gyaru-trading-badge",
+      "global_product_id": "tsutaya-heisei-gyaru-trading-badge",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディング缶バッジ 平成ギャルver.",
+      "name_zh": "平成辣妹 随机徽章",
+      "category_id": "can_badge",
+      "campaign_id": "tsutaya-heisei-gyaru-2026",
+      "manufacturer_id": "tsutaya",
+      "variant": "随机全5款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": "约57×57mm",
+        "material": "马口铁"
+      },
+      "release_date": "2026-05-29",
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/source-02dc63cb2e8ac5ab7d79.jpg",
+          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-trading-badge.webp",
+          "role": "lineup",
+          "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/1Va6696Ka7/s-800x800_v-fs_webp_db0ca952-1509-4e29-a8fb-b738f883217b.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TSUTAYA",
+          "phase": "general_sale",
+          "url": "https://tsutaya.tsite.jp/articles/store-5393"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tsutaya.tsite.jp/articles/store-5393",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "平成辣妹",
+        "新规绘制",
+        "月之木古都"
+      ],
+      "notes": "官方活动商品图明确包含月之木古都。"
+    },
+    {
+      "id": "thechara-fes-keychain-koto",
+      "global_product_id": "thechara-fes-keychain-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "SNS風アクリルキーホルダー 月之木古都 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES SNS风亚克力挂件 月之木古都",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "tsuwabuki-fes",
+      "manufacturer_id": "contents-seed",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "H90×W60mm",
+        "material": "アクリル・金属"
+      },
+      "release_date": null,
+      "list_price_yen": 1375,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-keychain-koto.jpg",
+          "thumbnail_path": "images/thumbs/thechara-fes-keychain-koto.webp",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/252/GOODS-04638179.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "あみあみ",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638179"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638179",
+          "type": "official_retail",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "单人"
+      ],
+      "notes": "商品名、角色、品类及图片已按 AmiAmi 商品页核对。"
+    },
+    {
+      "id": "thechara-fes-lottery-figure-koto",
+      "global_product_id": "thechara-fes-lottery-figure-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "抽選会 特大アクリルスタンド 月之木古都 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 抽奖特大亚克力立牌 月之木古都",
+      "category_id": "acrylic_stand",
+      "campaign_id": "tsuwabuki-fes",
+      "manufacturer_id": "contents-seed",
+      "variant": "月之木古都（活动特典）",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 7
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-08-20",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-benefits-lineup.jpg",
+          "thumbnail_path": "images/thumbs/thechara-fes-benefits-lineup.webp",
+          "role": "lineup",
+          "source_url": "https://asset.watch.impress.co.jp/img/gmw/docs/2008/039/0_l.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "lottery_prize",
+          "url": "https://game.watch.impress.co.jp/docs/news/2008039.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://game.watch.impress.co.jp/docs/news/2008039.html",
+          "type": "secondary",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TSUWABUKI FES",
+        "月之木古都"
+      ],
+      "notes": "官方活动阵容图明确包含月之木古都。"
+    },
+    {
+      "id": "thechara-fes-tshirt-literature",
+      "global_product_id": "thechara-fes-tshirt-literature",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "Tシャツ 文芸部 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 文艺部T恤",
+      "category_id": "apparel",
+      "campaign_id": "tsuwabuki-fes",
+      "manufacturer_id": "contents-seed",
+      "variant": "商品图案、套装或随机阵容明确包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "XL",
+        "material": "棉"
+      },
+      "release_date": "2025-08-20",
+      "list_price_yen": 4400,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-tshirt-literature.jpg",
+          "thumbnail_path": "images/thumbs/thechara-fes-tshirt-literature.webp",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031158_683e64c144041.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10805341/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10805341/",
+          "type": "official",
+          "checked_at": "2026-10-02"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TSUWABUKI FES",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-fes-deskmat-literature",
+      "global_product_id": "thechara-fes-deskmat-literature",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ラバーデスクマット 文芸部 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 文艺部橡胶桌垫",
+      "category_id": "stationery",
+      "campaign_id": "tsuwabuki-fes",
+      "manufacturer_id": "contents-seed",
+      "variant": "商品图案、套装或随机阵容明确包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "聚酯纤维、橡胶"
+      },
+      "release_date": "2025-08-20",
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-deskmat-literature.jpg",
+          "thumbnail_path": "images/thumbs/thechara-fes-deskmat-literature.webp",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031151_683e633f4deb3.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10805330/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10805330/",
+          "type": "official",
+          "checked_at": "2026-10-02"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TSUWABUKI FES",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-fes-memorial-art-literature",
+      "global_product_id": "thechara-fes-memorial-art-literature",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "メモリアルアート 文芸部 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 文艺部纪念艺术画",
+      "category_id": "acrylic_art",
+      "campaign_id": "tsuwabuki-fes",
+      "manufacturer_id": "contents-seed",
+      "variant": "商品图案、套装或随机阵容明确包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "画框外径340×430mm；插画A4",
+        "material": "树脂"
+      },
+      "release_date": "2025-08-20",
+      "list_price_yen": 16500,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-memorial-art-literature.jpg",
+          "thumbnail_path": "images/thumbs/thechara-fes-memorial-art-literature.webp",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031156_683e646be50c2.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10805339/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10805339/",
+          "type": "official",
+          "checked_at": "2026-10-02"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TSUWABUKI FES",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-fes-clock-literature",
+      "global_product_id": "thechara-fes-clock-literature",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ミニアクリルクロック 文芸部 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 文艺部迷你亚克力时钟",
+      "category_id": "stationery",
+      "campaign_id": "tsuwabuki-fes",
+      "manufacturer_id": "contents-seed",
+      "variant": "商品图案、套装或随机阵容明确包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约H100×W140mm内",
+        "material": "亚克力"
+      },
+      "release_date": "2025-08-20",
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-clock-literature.jpg",
+          "thumbnail_path": "images/thumbs/thechara-fes-clock-literature.webp",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031139_683e6060479f7.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10805307/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10805307/",
+          "type": "official",
+          "checked_at": "2026-10-02"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TSUWABUKI FES",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-fes-mini-art-literature",
+      "global_product_id": "thechara-fes-mini-art-literature",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ミニアクリルアート 文芸部 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 文艺部迷你亚克力艺术板",
+      "category_id": "acrylic_art",
+      "campaign_id": "tsuwabuki-fes",
+      "manufacturer_id": "contents-seed",
+      "variant": "商品图案、套装或随机阵容明确包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "亚克力"
+      },
+      "release_date": "2025-08-20",
+      "list_price_yen": 2530,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-mini-art-literature.jpg",
+          "thumbnail_path": "images/thumbs/thechara-fes-mini-art-literature.webp",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031138_683e6020dbf44.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10805305/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10805305/",
+          "type": "official",
+          "checked_at": "2026-10-02"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TSUWABUKI FES",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-fes-bromide-koto",
+      "global_product_id": "thechara-fes-bromide-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "購入特典 ブロマイド 月之木古都 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 满额特典照片卡 月之木古都",
+      "category_id": "card",
+      "campaign_id": "tsuwabuki-fes",
+      "manufacturer_id": "contents-seed",
+      "variant": "月之木古都（活动特典）",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-08-20",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-benefits-lineup.jpg",
+          "thumbnail_path": "images/thumbs/thechara-fes-benefits-lineup.webp",
+          "role": "lineup",
+          "source_url": "https://asset.watch.impress.co.jp/img/gmw/docs/2008/039/0_l.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "purchase_bonus",
+          "url": "https://game.watch.impress.co.jp/docs/news/2008039.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://game.watch.impress.co.jp/docs/news/2008039.html",
+          "type": "secondary",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TSUWABUKI FES",
+        "月之木古都"
+      ],
+      "notes": "官方活动阵容图明确包含月之木古都。"
+    },
+    {
+      "id": "thechara-fes-board-koto",
+      "global_product_id": "thechara-fes-board-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "特大ダイカットアクリルボード 月之木古都 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 特大异形亚克力板 月之木古都",
+      "category_id": "acrylic_art",
+      "campaign_id": "tsuwabuki-fes",
+      "manufacturer_id": "contents-seed",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 5500,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-board-koto.jpg",
+          "thumbnail_path": "images/thumbs/thechara-fes-board-koto.webp",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/252/GOODS-04638197.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "あみあみ",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638197"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638197",
+          "type": "official_retail",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "单人"
+      ],
+      "notes": "商品名、角色、品类及图片已按 AmiAmi 商品页核对。"
+    },
+    {
+      "id": "thechara-fes-tapestry-koto",
+      "global_product_id": "thechara-fes-tapestry-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "特大タペストリー 月之木古都 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 特大挂毯 月之木古都",
+      "category_id": "tapestry",
+      "campaign_id": "tsuwabuki-fes",
+      "manufacturer_id": "contents-seed",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "H1700×W600mm",
+        "material": "スエード"
+      },
+      "release_date": null,
+      "list_price_yen": 7700,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-tapestry-koto.jpg",
+          "thumbnail_path": "images/thumbs/thechara-fes-tapestry-koto.webp",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/252/GOODS-04638213.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "あみあみ",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638213"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638213",
+          "type": "official_retail",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "单人"
+      ],
+      "notes": "商品名、角色、品类及图片已按 AmiAmi 商品页核对。"
+    },
+    {
+      "id": "thechara-fes-microfiber-koto",
+      "global_product_id": "thechara-fes-microfiber-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "マイクロファイバー 月之木古都 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 超细纤维布 月之木古都",
+      "category_id": "fabric_goods",
+      "campaign_id": "tsuwabuki-fes",
+      "manufacturer_id": "contents-seed",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "200×200mm",
+        "material": "マイクロファイバー"
+      },
+      "release_date": null,
+      "list_price_yen": 770,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-microfiber-koto.jpg",
+          "thumbnail_path": "images/thumbs/thechara-fes-microfiber-koto.webp",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/252/GOODS-04638204.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "あみあみ",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638204"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638204",
+          "type": "official_retail",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "单人"
+      ],
+      "notes": "商品名、角色、品类及图片已按 AmiAmi 商品页核对。"
+    },
+    {
+      "id": "thechara-fes-holo-stand-koto",
+      "global_product_id": "thechara-fes-holo-stand-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ホログラムデカアクリルスタンド 月之木古都 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 镭射大型亚克力立牌 月之木古都",
+      "category_id": "acrylic_stand",
+      "campaign_id": "tsuwabuki-fes",
+      "manufacturer_id": "contents-seed",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 2750,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-holo-stand-koto.jpg",
+          "thumbnail_path": "images/thumbs/thechara-fes-holo-stand-koto.webp",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/252/GOODS-04638190.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "あみあみ",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638190"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638190",
+          "type": "official_retail",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "单人"
+      ],
+      "notes": "商品名、角色、品类及图片已按 AmiAmi 商品页核对。"
+    },
+    {
+      "id": "thechara-fes-badge",
+      "global_product_id": "thechara-fes-badge",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "カンバッジ（ブラインド）TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 随机徽章",
+      "category_id": "can_badge",
+      "campaign_id": "tsuwabuki-fes",
+      "manufacturer_id": "contents-seed",
+      "variant": "商品图案、套装或随机阵容明确包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 7
+      },
+      "spec": {
+        "size": null,
+        "material": "ラバー"
+      },
+      "release_date": null,
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-badge.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031134_683e5f1fd50ee.jpg&width=1200&height=630",
+          "thumbnail_path": "images/thumbs/thechara-fes-badge.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10805297/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10805297/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "学生会",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-pale-keychain-koto",
+      "global_product_id": "thechara-pale-keychain-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "SNS風アクリルキーホルダー PALE TONE series 月之木古都 TSUWABUKI FES ver.",
+      "name_zh": "PALE TONE SNS风亚克力挂件 月之木古都",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "tsuwabuki-fes-pale-tone",
+      "manufacturer_id": "contents-seed-yurakucho-marui",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 7
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2026-04-02",
+      "list_price_yen": 1375,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-keychain-koto.jpg",
+          "thumbnail_path": "images/thumbs/thechara-pale-keychain-koto.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-03e5bad2e1da5757f2b4128449646d23-800x800.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "THEキャラ / 有楽町マルイ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "PALE TONE",
+        "TSUWABUKI FES",
+        "月之木古都"
+      ],
+      "notes": "官方活动阵容图明确包含月之木古都。"
+    },
+    {
+      "id": "thechara-pale-deskmat",
+      "global_product_id": "thechara-pale-deskmat",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ラバーデスクマット PALE TONE series TSUWABUKI FES ver.",
+      "name_zh": "PALE TONE TSUWABUKI FES 橡胶桌垫",
+      "category_id": "stationery",
+      "campaign_id": "tsuwabuki-fes-pale-tone",
+      "manufacturer_id": "contents-seed",
+      "variant": "商品图案、套装或随机阵容明确包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "600×350mm",
+        "material": "ラバー"
+      },
+      "release_date": null,
+      "list_price_yen": 4400,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-deskmat.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181302_6a336de36cf50.jpg&width=1200&height=630",
+          "thumbnail_path": "images/thumbs/thechara-pale-deskmat.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10907457/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10907457/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "PALE TONE",
+        "学生会",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-pale-badge",
+      "global_product_id": "thechara-pale-badge",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ホログラムカンバッジ（ブラインド）PALE TONE series TSUWABUKI FES ver.",
+      "name_zh": "PALE TONE TSUWABUKI FES 随机镭射徽章",
+      "category_id": "can_badge",
+      "campaign_id": "tsuwabuki-fes-pale-tone",
+      "manufacturer_id": "contents-seed",
+      "variant": "商品图案、套装或随机阵容明确包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 7
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-badge.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181247_6a336a4d08052.jpg&width=1200&height=630",
+          "thumbnail_path": "images/thumbs/thechara-pale-badge.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10907440/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10907440/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "PALE TONE",
+        "随机",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-pale-stand-koto",
+      "global_product_id": "thechara-pale-stand-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "デカアクリルスタンド PALE TONE series 月之木古都 TSUWABUKI FES ver.",
+      "name_zh": "PALE TONE 大型亚克力立牌 月之木古都",
+      "category_id": "acrylic_stand",
+      "campaign_id": "tsuwabuki-fes-pale-tone",
+      "manufacturer_id": "contents-seed-yurakucho-marui",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 7
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2026-04-02",
+      "list_price_yen": 2200,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-stand-koto.jpg",
+          "thumbnail_path": "images/thumbs/thechara-pale-stand-koto.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-da40a66e309fb46972f60a6ae15b6dcc-800x800.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "THEキャラ / 有楽町マルイ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "PALE TONE",
+        "TSUWABUKI FES",
+        "月之木古都"
+      ],
+      "notes": "官方活动阵容图明确包含月之木古都。"
+    },
+    {
+      "id": "thechara-pale-lottery-figure-koto",
+      "global_product_id": "thechara-pale-lottery-figure-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "抽選会 特大アクリルスタンド 月之木古都 PALE TONE series",
+      "name_zh": "PALE TONE 抽奖特大亚克力立牌 月之木古都",
+      "category_id": "acrylic_stand",
+      "campaign_id": "tsuwabuki-fes-pale-tone",
+      "manufacturer_id": "contents-seed-yurakucho-marui",
+      "variant": "月之木古都（抽选奖品）",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 7
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2026-04-02",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-benefits-lineup.jpg",
+          "thumbnail_path": "images/thumbs/thechara-pale-benefits-lineup.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-9fcfb15edd2c0b3aceb407036f7268fc-2000x1414.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "THEキャラ / 有楽町マルイ",
+          "phase": "lottery_prize",
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "PALE TONE",
+        "TSUWABUKI FES",
+        "月之木古都"
+      ],
+      "notes": "官方活动阵容图明确包含月之木古都。"
+    },
+    {
+      "id": "thechara-pale-memorial-art-literature",
+      "global_product_id": "thechara-pale-memorial-art-literature",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "メモリアルアート PALE TONE series 文芸部 TSUWABUKI FES ver.",
+      "name_zh": "PALE TONE 文艺部纪念艺术画",
+      "category_id": "acrylic_art",
+      "campaign_id": "tsuwabuki-fes-pale-tone",
+      "manufacturer_id": "contents-seed-yurakucho-marui",
+      "variant": "商品图案、套装或随机阵容明确包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 2
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2026-04-02",
+      "list_price_yen": 16500,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-memorial-art-literature.jpg",
+          "thumbnail_path": "images/thumbs/thechara-pale-memorial-art-literature.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-99c51f3d27ed2806d76b3fed34e43dc0-800x800.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "THEキャラ / 有楽町マルイ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-02"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "PALE TONE",
+        "TSUWABUKI FES",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-pale-mini-art-literature",
+      "global_product_id": "thechara-pale-mini-art-literature",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ミニアクリルアート PALE TONE series 文芸部 TSUWABUKI FES ver.",
+      "name_zh": "PALE TONE 文艺部迷你亚克力艺术板",
+      "category_id": "acrylic_art",
+      "campaign_id": "tsuwabuki-fes-pale-tone",
+      "manufacturer_id": "contents-seed-yurakucho-marui",
+      "variant": "商品图案、套装或随机阵容明确包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 2
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2026-04-02",
+      "list_price_yen": 2640,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-mini-art-literature.jpg",
+          "thumbnail_path": "images/thumbs/thechara-pale-mini-art-literature.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-b2cbf7dc47a34bbd7248bf6a65e8c309-800x800.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "THEキャラ / 有楽町マルイ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-02"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "PALE TONE",
+        "TSUWABUKI FES",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-pale-bromide-koto",
+      "global_product_id": "thechara-pale-bromide-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "購入特典 ブロマイド 月之木古都 PALE TONE series",
+      "name_zh": "PALE TONE 满额特典照片卡 月之木古都",
+      "category_id": "card",
+      "campaign_id": "tsuwabuki-fes-pale-tone",
+      "manufacturer_id": "contents-seed-yurakucho-marui",
+      "variant": "月之木古都（随机特典）",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2026-04-02",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-benefits-lineup.jpg",
+          "thumbnail_path": "images/thumbs/thechara-pale-benefits-lineup.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-9fcfb15edd2c0b3aceb407036f7268fc-2000x1414.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "THEキャラ / 有楽町マルイ",
+          "phase": "purchase_bonus",
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "PALE TONE",
+        "TSUWABUKI FES",
+        "月之木古都"
+      ],
+      "notes": "官方活动阵容图明确包含月之木古都。"
+    },
+    {
+      "id": "thechara-pale-tapestry-koto",
+      "global_product_id": "thechara-pale-tapestry-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "特大タペストリー PALE TONE series 月之木古都 TSUWABUKI FES ver.",
+      "name_zh": "PALE TONE 特大挂毯 月之木古都",
+      "category_id": "tapestry",
+      "campaign_id": "tsuwabuki-fes-pale-tone",
+      "manufacturer_id": "contents-seed-yurakucho-marui",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 7
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2026-04-02",
+      "list_price_yen": 8800,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-tapestry-koto.jpg",
+          "thumbnail_path": "images/thumbs/thechara-pale-tapestry-koto.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-89db8191d24bf0399d1bd811aef20e51-800x800.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "THEキャラ / 有楽町マルイ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "PALE TONE",
+        "TSUWABUKI FES",
+        "月之木古都"
+      ],
+      "notes": "官方活动阵容图明确包含月之木古都。"
+    },
+    {
+      "id": "thechara-pale-microfiber-koto",
+      "global_product_id": "thechara-pale-microfiber-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "マイクロファイバー PALE TONE series 月之木古都 TSUWABUKI FES ver.",
+      "name_zh": "PALE TONE 超细纤维布 月之木古都",
+      "category_id": "fabric_goods",
+      "campaign_id": "tsuwabuki-fes-pale-tone",
+      "manufacturer_id": "contents-seed-yurakucho-marui",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 7
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2026-04-02",
+      "list_price_yen": 825,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-microfiber-koto.jpg",
+          "thumbnail_path": "images/thumbs/thechara-pale-microfiber-koto.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-d0515c45f46168109a556cf486e03e9e-800x800.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "THEキャラ / 有楽町マルイ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "PALE TONE",
+        "TSUWABUKI FES",
+        "月之木古都"
+      ],
+      "notes": "官方活动阵容图明确包含月之木古都。"
+    },
+    {
+      "id": "tosyo-winter-b2-tapestry",
+      "global_product_id": "tosyo-winter-b2-tapestry",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "B2横タペストリー 冬制服",
+      "name_zh": "冬制服 B2 横向挂毯",
+      "category_id": "tapestry",
+      "campaign_id": "winter-uniform",
+      "manufacturer_id": "tosyo",
+      "variant": "群像图案包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约W728×H515mm",
+        "material": "Wスエード"
+      },
+      "release_date": null,
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/tosyo-winter-b2-tapestry.jpg",
+          "role": "lineup",
+          "source_url": "https://tosyo-goods.jp/cdn/shop/files/tbhtpmho0002_1.jpg?v=1763439332&width=1946",
+          "thumbnail_path": "images/thumbs/tosyo-winter-b2-tapestry.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TOSYO",
+          "phase": "general_sale",
+          "url": "https://tosyo-goods.jp/products/tbhtpmho0002"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tosyo-goods.jp/products/tbhtpmho0002",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "冬制服",
+        "群像",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tosyo-winter-bookmarker-koto",
+      "global_product_id": "tosyo-winter-bookmarker-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "冬制服 アクリルブックマーカー 月之木古都",
+      "name_zh": "冬制服 书签 月之木古都",
+      "category_id": "stationery",
+      "campaign_id": "winter-uniform",
+      "manufacturer_id": "tosyo-chara-in",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tosyo-winter-bookmarker-koto.jpg",
+          "thumbnail_path": "images/thumbs/tosyo-winter-bookmarker-koto.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/26614/55/26614-55-86c17a123479b1a66a204233829fc391-800x800.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TOSYO GOODS STORE",
+          "phase": "general_sale",
+          "url": "https://tosyo-goods.jp/collections/charain_makeine"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tosyo-goods.jp/collections/charain_makeine",
+          "type": "manufacturer",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402178/",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "冬制服",
+        "月之木古都"
+      ],
+      "notes": "官方商品阵容图明确列出月之木古都。"
+    },
+    {
+      "id": "tosyo-winter-stamp-koto",
+      "global_product_id": "tosyo-winter-stamp-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "冬制服 アクリルスタンプ 月之木古都",
+      "name_zh": "冬制服 亚克力印章 月之木古都",
+      "category_id": "stationery",
+      "campaign_id": "winter-uniform",
+      "manufacturer_id": "tosyo-chara-in",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 1650,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tosyo-winter-stamp-koto.jpg",
+          "thumbnail_path": "images/thumbs/tosyo-winter-stamp-koto.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/26614/55/26614-55-73287a899bb5b5bc603e9cb89a9b9d19-800x800.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TOSYO GOODS STORE",
+          "phase": "general_sale",
+          "url": "https://tosyo-goods.jp/collections/charain_makeine"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tosyo-goods.jp/collections/charain_makeine",
+          "type": "manufacturer",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402165/",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "冬制服",
+        "月之木古都"
+      ],
+      "notes": "官方商品阵容图明确列出月之木古都。"
+    },
+    {
+      "id": "tosyo-winter-keychain-koto",
+      "global_product_id": "tosyo-winter-keychain-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "冬制服 アクリルブロックキーホルダー 月之木古都",
+      "name_zh": "冬制服 亚克力挂件 月之木古都",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "winter-uniform",
+      "manufacturer_id": "tosyo-chara-in",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 1100,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tosyo-winter-keychain-koto.jpg",
+          "thumbnail_path": "images/thumbs/tosyo-winter-keychain-koto.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/26614/55/26614-55-fffa165efb25b041a3c5d4fea9338500-3900x3900.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TOSYO GOODS STORE",
+          "phase": "general_sale",
+          "url": "https://tosyo-goods.jp/collections/charain_makeine"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tosyo-goods.jp/collections/charain_makeine",
+          "type": "manufacturer",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402153/",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "冬制服",
+        "月之木古都"
+      ],
+      "notes": "官方商品阵容图明确列出月之木古都。"
+    },
+    {
+      "id": "tosyo-winter-stand-koto",
+      "global_product_id": "tosyo-winter-stand-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "冬制服 アクリルスタンド 月之木古都",
+      "name_zh": "冬制服 亚克力立牌 月之木古都",
+      "category_id": "acrylic_stand",
+      "campaign_id": "winter-uniform",
+      "manufacturer_id": "tosyo-chara-in",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 1760,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tosyo-winter-stand-koto.jpg",
+          "thumbnail_path": "images/thumbs/tosyo-winter-stand-koto.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/26614/55/26614-55-6c03e74820dc31e099b8ceb50854f3a2-800x800.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TOSYO GOODS STORE",
+          "phase": "general_sale",
+          "url": "https://tosyo-goods.jp/collections/charain_makeine"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tosyo-goods.jp/collections/charain_makeine",
+          "type": "manufacturer",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402141/",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "冬制服",
+        "月之木古都"
+      ],
+      "notes": "官方商品阵容图明确列出月之木古都。"
+    },
+    {
+      "id": "tosyo-winter-badge",
+      "global_product_id": "tosyo-winter-badge",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "缶バッジコンプリートセット 冬制服",
+      "name_zh": "冬制服徽章全套",
+      "category_id": "can_badge",
+      "campaign_id": "winter-uniform",
+      "manufacturer_id": "tosyo-japan-post",
+      "variant": "套装包含月之木古都",
+      "sale_format": {
+        "type": "set",
+        "total_variants": 13
+      },
+      "spec": {
+        "size": "直径约56mm",
+        "material": "ブリキ"
+      },
+      "release_date": null,
+      "list_price_yen": 7150,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/tosyo-winter-badge.jpg",
+          "role": "lineup",
+          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983402166.jpg",
+          "thumbnail_path": "images/thumbs/tosyo-winter-badge.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TOSYO / 郵便局物販サービス",
+          "phase": "general_sale",
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402166/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402166/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "冬制服",
+        "套装",
+        "月之木古都"
+      ],
+      "notes": "12款普通徽章各1枚，另附1枚随机闪粉特别版。"
+    },
+    {
+      "id": "tsutaya-heisei-gyaru-keychain-koto",
+      "global_product_id": "tsutaya-heisei-gyaru-keychain-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ちょいデカアクリルキーホルダー 月之木古都 平成ギャルver.",
+      "name_zh": "平成辣妹 稍大亚克力挂件 月之木古都",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "tsutaya-heisei-gyaru-2026",
+      "manufacturer_id": "bell-house",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约W75×H75mm",
+        "material": "亚克力"
+      },
+      "release_date": null,
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tsutaya-heisei-gyaru-keychain-koto.jpg",
+          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-keychain-koto.webp",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=09281531_6aba09ab795c3.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Gamers",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pd/10941805/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pd/10941805/",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "平成辣妹",
+        "新规绘制",
+        "月之木古都"
+      ],
+      "notes": "官方标注2026年11月下旬发售。"
+    },
+    {
+      "id": "tsutaya-heisei-gyaru-badge-koto",
+      "global_product_id": "tsutaya-heisei-gyaru-badge-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "缶バッジ 月之木古都 平成ギャルver.",
+      "name_zh": "平成辣妹 徽章 月之木古都",
+      "category_id": "can_badge",
+      "campaign_id": "tsutaya-heisei-gyaru-2026",
+      "manufacturer_id": "bell-house",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "直径约57mm",
+        "material": "马口铁"
+      },
+      "release_date": null,
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tsutaya-heisei-gyaru-badge-koto.jpg",
+          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-badge-koto.webp",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=09281534_6aba0a5d6eb7e.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Gamers",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pd/10941811/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pd/10941811/",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "平成辣妹",
+        "新规绘制",
+        "月之木古都"
+      ],
+      "notes": "官方标注2026年11月下旬发售。"
+    },
+    {
+      "id": "tsutaya-heisei-gyaru-stand-koto",
+      "global_product_id": "tsutaya-heisei-gyaru-stand-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "アクリルスタンド 月之木古都 平成ギャルver.",
+      "name_zh": "平成辣妹 亚克力立牌 月之木古都",
+      "category_id": "acrylic_stand",
+      "campaign_id": "tsutaya-heisei-gyaru-2026",
+      "manufacturer_id": "bell-house",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约W110×H125mm",
+        "material": "亚克力"
+      },
+      "release_date": null,
+      "list_price_yen": 1650,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tsutaya-heisei-gyaru-stand-koto.jpg",
+          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-stand-koto.webp",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=09281537_6aba0b2e00093.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Gamers",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pd/10941817/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pd/10941817/",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "平成辣妹",
+        "新规绘制",
+        "月之木古都"
+      ],
+      "notes": "官方标注2026年11月下旬发售。"
+    },
+    {
+      "id": "tsutaya-heisei-gyaru-mini-stand-koto",
+      "global_product_id": "tsutaya-heisei-gyaru-mini-stand-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ミニスタンド 月之木古都 平成ギャルver.",
+      "name_zh": "平成辣妹 迷你立牌 月之木古都",
+      "category_id": "acrylic_stand",
+      "campaign_id": "tsutaya-heisei-gyaru-2026",
+      "manufacturer_id": "bell-house",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约W50×H70mm",
+        "material": "亚克力"
+      },
+      "release_date": null,
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tsutaya-heisei-gyaru-mini-stand-koto.jpg",
+          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-mini-stand-koto.webp",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=09281540_6aba0bc1f3636.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Gamers",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pd/10941822/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pd/10941822/",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "平成辣妹",
+        "新规绘制",
+        "月之木古都"
+      ],
+      "notes": "官方标注2026年11月下旬发售。"
+    },
+    {
+      "id": "tsutaya-heisei-gyaru-clear-file-koto",
+      "global_product_id": "tsutaya-heisei-gyaru-clear-file-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "クリアファイル 月之木古都 平成ギャルver.",
+      "name_zh": "平成辣妹 透明文件夹 月之木古都",
+      "category_id": "clear_file",
+      "campaign_id": "tsutaya-heisei-gyaru-2026",
+      "manufacturer_id": "bell-house",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 495,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tsutaya-heisei-gyaru-clear-file-koto.jpg",
+          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-clear-file-koto.webp",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=09281551_6aba0e66b7b71.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Gamers",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pd/10941827/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pd/10941827/",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "平成辣妹",
+        "新规绘制",
+        "月之木古都"
+      ],
+      "notes": "官方标注2026年11月下旬发售。"
+    },
+    {
+      "id": "tsutaya-heisei-gyaru-slim-tapestry-koto",
+      "global_product_id": "tsutaya-heisei-gyaru-slim-tapestry-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "スリムタペストリー 月之木古都 平成ギャルver.",
+      "name_zh": "平成辣妹 窄幅挂毯 月之木古都",
+      "category_id": "tapestry",
+      "campaign_id": "tsutaya-heisei-gyaru-2026",
+      "manufacturer_id": "bell-house",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "W258×H728mm",
+        "material": "麂皮绒"
+      },
+      "release_date": null,
+      "list_price_yen": 2750,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tsutaya-heisei-gyaru-slim-tapestry-koto.jpg",
+          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-slim-tapestry-koto.webp",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=09281554_6aba0f0e8889e.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Gamers",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pd/10941832/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pd/10941832/",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "平成辣妹",
+        "新规绘制",
+        "月之木古都"
+      ],
+      "notes": "官方标注2026年11月下旬发售。"
+    },
+    {
+      "id": "tsutaya-heisei-gyaru-bookmark-bonus-koto",
+      "global_product_id": "tsutaya-heisei-gyaru-bookmark-bonus-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "購入特典 しおり 月之木古都 平成ギャルver.",
+      "name_zh": "平成辣妹 满额特典书签 月之木古都",
+      "category_id": "card",
+      "campaign_id": "tsutaya-heisei-gyaru-2026",
+      "manufacturer_id": "tsutaya",
+      "variant": "月之木古都（随机特典）",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": "纸"
+      },
+      "release_date": "2026-05-29",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tsutaya-heisei-gyaru-bookmark-bonus-koto.webp",
+          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-bookmark-bonus-koto.webp",
+          "role": "bonus",
+          "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/1Va6696Ka7/s-800x800_v-fs_webp_7f6bd3b7-17d7-4539-971b-e20cd4c41649_small.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TSUTAYA",
+          "phase": "purchase_bonus",
+          "url": "https://tsutaya.tsite.jp/articles/store-5393"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tsutaya.tsite.jp/articles/store-5393",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "平成辣妹",
+        "新规绘制",
+        "特典",
+        "月之木古都"
+      ],
+      "notes": "每购买对象商品满2200日元随机赠送1枚；非单独销售。"
+    },
+    {
+      "id": "tosyo-lineart-stand-koto",
+      "global_product_id": "tosyo-lineart-stand-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "アクリルフィギュアスタンド・月之木古都",
+      "name_zh": "线稿亚克力立牌 月之木古都",
+      "category_id": "acrylic_stand",
+      "campaign_id": "chara-in-line-art",
+      "manufacturer_id": "tosyo-chara-in",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约W100×H100mm",
+        "material": "亚克力"
+      },
+      "release_date": "2025-01-01",
+      "list_price_yen": 1760,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tosyo-lineart-stand-koto.jpg",
+          "thumbnail_path": "images/thumbs/tosyo-lineart-stand-koto.webp",
+          "role": "product",
+          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983400987.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "日本邮便局网上商店",
+          "phase": "general_sale",
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983400987/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983400987/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "线稿",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tosyo-lineart-phone-tab-koto",
+      "global_product_id": "tosyo-lineart-phone-tab-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "フォンタブ・月之木古都",
+      "name_zh": "线稿手机夹片 月之木古都",
+      "category_id": "accessory",
+      "campaign_id": "chara-in-line-art",
+      "manufacturer_id": "tosyo-chara-in",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约W60×H90mm",
+        "material": "TPU、聚酯纤维"
+      },
+      "release_date": "2025-01-01",
+      "list_price_yen": 2200,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tosyo-lineart-phone-tab-koto.jpg",
+          "thumbnail_path": "images/thumbs/tosyo-lineart-phone-tab-koto.webp",
+          "role": "product",
+          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983400996.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "日本邮便局网上商店",
+          "phase": "general_sale",
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983400996/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983400996/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "线稿",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tosyo-lineart-mug-koto",
+      "global_product_id": "tosyo-lineart-mug-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "マグカップ・月之木古都",
+      "name_zh": "线稿马克杯 月之木古都",
+      "category_id": "tableware",
+      "campaign_id": "chara-in-line-art",
+      "manufacturer_id": "tosyo-chara-in",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-01-01",
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tosyo-lineart-mug-koto.jpg",
+          "thumbnail_path": "images/thumbs/tosyo-lineart-mug-koto.webp",
+          "role": "product",
+          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983401005.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "日本邮便局网上商店",
+          "phase": "general_sale",
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983401005/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983401005/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "线稿",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tosyo-lineart-coaster-koto",
+      "global_product_id": "tosyo-lineart-coaster-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "白雲石コースター・月之木古都",
+      "name_zh": "线稿白云石杯垫 月之木古都",
+      "category_id": "tableware",
+      "campaign_id": "chara-in-line-art",
+      "manufacturer_id": "tosyo-chara-in",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "直径约100mm",
+        "material": "白云石、软木"
+      },
+      "release_date": "2025-01-01",
+      "list_price_yen": 1320,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tosyo-lineart-coaster-koto.jpg",
+          "thumbnail_path": "images/thumbs/tosyo-lineart-coaster-koto.webp",
+          "role": "product",
+          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983401014.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "日本邮便局网上商店",
+          "phase": "general_sale",
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983401014/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983401014/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "线稿",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tosyo-lineart-b2-tapestry",
+      "global_product_id": "tosyo-lineart-b2-tapestry",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "B2タペストリー 集合",
+      "name_zh": "线稿 B2 挂毯",
+      "category_id": "tapestry",
+      "campaign_id": "chara-in-line-art",
+      "manufacturer_id": "tosyo-chara-in",
+      "variant": "群像图案包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "B2",
+        "material": "布"
+      },
+      "release_date": "2025-01-01",
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tosyo-lineart-b2-tapestry.jpg",
+          "thumbnail_path": "images/thumbs/tosyo-lineart-b2-tapestry.webp",
+          "role": "lineup",
+          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983401018.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "日本邮便局网上商店",
+          "phase": "general_sale",
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983401018/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983401018/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "线稿",
+        "群像",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hobbystock-trading-badge-vol1",
+      "global_product_id": "hobbystock-trading-badge-vol1",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディング缶バッジ vol.1",
+      "name_zh": "随机徽章 vol.1 月之木古都款",
+      "category_id": "can_badge",
+      "campaign_id": "trading-can-badge-vol-1",
+      "manufacturer_id": "hobby-stock",
+      "variant": "随机12款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 12
+      },
+      "spec": {
+        "size": "直径约57mm",
+        "material": "纸、钢"
+      },
+      "release_date": "2024-12-01",
+      "list_price_yen": 440,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/hobbystock-trading-badge-vol1.jpg",
+          "thumbnail_path": "images/thumbs/hobbystock-trading-badge-vol1.webp",
+          "role": "lineup",
+          "source_url": "https://www.1999.co.jp/itbig112/11126516a14.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Hobby Search",
+          "phase": "general_sale",
+          "url": "https://www.1999.co.jp/11126516"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.1999.co.jp/11126516",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "随机",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hobbystock-trading-badge-vol3-koto",
+      "global_product_id": "hobbystock-trading-badge-vol3",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディング缶バッジ vol.3",
+      "name_zh": "随机徽章 vol.3 月之木古都款",
+      "category_id": "can_badge",
+      "campaign_id": "trading-can-badge-vol-3",
+      "manufacturer_id": "hobby-stock",
+      "variant": "随机12款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 12
+      },
+      "spec": {
+        "size": "直径约57mm",
+        "material": "纸、钢"
+      },
+      "release_date": "2025-04-01",
+      "list_price_yen": 440,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/hobbystock-trading-badge-vol3-koto.jpg",
+          "thumbnail_path": "images/thumbs/hobbystock-trading-badge-vol3-koto.webp",
+          "role": "lineup",
+          "source_url": "https://img.amiami.jp/images/product/main/251/GOODS-04592880.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AmiAmi",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04592880"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04592880",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "随机",
+        "月之木古都"
+      ],
+      "notes": "发售时间公开到月份。"
+    },
+    {
+      "id": "philter-trading-initial-keyholder",
+      "global_product_id": "philter-trading-initial-keyholder",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディングイニシャルキーホルダー 月之木古都",
+      "name_zh": "Philter 随机首字母亚克力挂件 月之木古都款",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "philter-initial-goods-2025",
+      "manufacturer_id": "philter",
+      "variant": "随机9款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": "约60×60mm",
+        "material": "亚克力、合金"
+      },
+      "release_date": "2025-02-28",
+      "list_price_yen": 770,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/philter-trading-initial-keyholder.jpg",
+          "thumbnail_path": "images/thumbs/philter-trading-initial-keyholder.webp",
+          "role": "lineup",
+          "source_url": "https://img07.shop-pro.jp/PA01343/588/product/183576339.jpg?cmsp_timestamp=20241202100447"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "P Anime Store",
+          "phase": "general_sale",
+          "url": "https://www.p-animestore.com/?pid=183576339"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.p-animestore.com/?pid=183576339",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "随机",
+        "月之木古都"
+      ],
+      "notes": null
+    },
+    {
+      "id": "csfront-01-acrylic-card",
+      "global_product_id": "csfront-01-acrylic-card",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "アクリルカード /01 全9種",
+      "name_zh": "CS.FRONT /01 随机亚克力卡",
+      "category_id": "card",
+      "campaign_id": "cs-front",
+      "manufacturer_id": "cs-front",
+      "variant": "随机9款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": "约90×55mm",
+        "material": "亚克力、铁"
+      },
+      "release_date": "2026-04-01",
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/csfront-01-acrylic-card.jpg",
+          "thumbnail_path": "images/thumbs/csfront-01-acrylic-card.webp",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=02031710_6981ad583c40a.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Gamers",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pd/10872485/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pd/10872485/",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "随机",
+        "CS.FRONT",
+        "月之木古都"
+      ],
+      "notes": "发售时间公开到月份。"
+    },
+    {
+      "id": "csfront-01-stand-keyholder",
+      "global_product_id": "csfront-01-stand-keyholder",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "まるっとスタンドキーホルダー /01 全9種",
+      "name_zh": "CS.FRONT /01 随机竖牌挂件",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "cs-front",
+      "manufacturer_id": "cs-front",
+      "variant": "随机9款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": "约65×65mm",
+        "material": "亚克力、黄铜、铁"
+      },
+      "release_date": "2026-04-01",
+      "list_price_yen": 880,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/csfront-01-stand-keyholder.jpg",
+          "thumbnail_path": "images/thumbs/csfront-01-stand-keyholder.webp",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=02031710_6981ad7968d29.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Gamers",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pd/10872486/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pd/10872486/",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "随机",
+        "CS.FRONT",
+        "月之木古都"
+      ],
+      "notes": "发售时间公开到月份。"
+    },
+    {
+      "id": "csfront-01-badge",
+      "global_product_id": "csfront-01-badge",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "缶バッジ /01 全9種",
+      "name_zh": "CS.FRONT /01 随机徽章",
+      "category_id": "can_badge",
+      "campaign_id": "cs-front",
+      "manufacturer_id": "cs-front",
+      "variant": "随机9款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": "直径约56mm",
+        "material": "马口铁、PET、纸"
+      },
+      "release_date": "2026-04-01",
+      "list_price_yen": 440,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/csfront-01-badge.jpg",
+          "thumbnail_path": "images/thumbs/csfront-01-badge.webp",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=02031710_6981ad93a982e.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Gamers",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pd/10872487/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pd/10872487/",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "随机",
+        "CS.FRONT",
+        "月之木古都"
+      ],
+      "notes": "发售时间公开到月份。"
+    },
+    {
+      "id": "csfront-01-acrylic-board",
+      "global_product_id": "csfront-01-acrylic-board",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "アクリルボード -技- /01 集合",
+      "name_zh": "CS.FRONT /01 集合亚克力板",
+      "category_id": "acrylic_art",
+      "campaign_id": "cs-front",
+      "manufacturer_id": "cs-front",
+      "variant": "群像图案包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "210×148mm",
+        "material": "亚克力、铁"
+      },
+      "release_date": "2026-04-01",
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/csfront-01-acrylic-board.jpg",
+          "thumbnail_path": "images/thumbs/csfront-01-acrylic-board.webp",
+          "role": "lineup",
+          "source_url": "https://makeshop-multi-images.akamaized.net/csshop/itemimages/000000007381_0efgr5Z.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "CS.FRONT",
+          "phase": "general_sale",
+          "url": "https://www.crysto.jp/view/item/000000007381"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.crysto.jp/view/item/000000007381",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "群像",
+        "CS.FRONT",
+        "月之木古都"
+      ],
+      "notes": "商品群像图明确包含月之木古都；发售时间公开到月份。"
+    },
+    {
+      "id": "csfront-06-diorama-koto",
+      "global_product_id": "csfront-06-diorama-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ジオラマアクリル /06 月之木古都",
+      "name_zh": "CS.FRONT /06 亚克力场景 月之木古都",
+      "category_id": "acrylic_art",
+      "campaign_id": "cs-front",
+      "manufacturer_id": "cs-front",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "亚克力"
+      },
+      "release_date": "2026-04-01",
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/csfront-06-diorama-koto.jpg",
+          "thumbnail_path": "images/thumbs/csfront-06-diorama-koto.webp",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/261/GOODS-04758047.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AmiAmi",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04758047"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04758047",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "CS.FRONT",
+        "月之木古都"
+      ],
+      "notes": "发售时间公开到月份。"
+    },
+    {
+      "id": "csfront-06-shaker-koto",
+      "global_product_id": "csfront-06-shaker-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "シャカシャカアクキー /06 月之木古都",
+      "name_zh": "CS.FRONT /06 摇摇亚克力挂件 月之木古都",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "cs-front",
+      "manufacturer_id": "cs-front",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约65×65mm",
+        "material": "亚克力、PE、铁、黄铜"
+      },
+      "release_date": "2026-04-01",
+      "list_price_yen": 1650,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/csfront-06-shaker-koto.jpg",
+          "thumbnail_path": "images/thumbs/csfront-06-shaker-koto.webp",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/261/GOODS-04758056.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AmiAmi",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04758056"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04758056",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "CS.FRONT",
+        "月之木古都"
+      ],
+      "notes": "发售时间公开到月份。"
+    },
+    {
+      "id": "csfront-06-sticker-koto",
+      "global_product_id": "csfront-06-sticker-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ステッカー /06 月之木古都",
+      "name_zh": "CS.FRONT /06 贴纸 月之木古都",
+      "category_id": "sticker",
+      "campaign_id": "cs-front",
+      "manufacturer_id": "cs-front",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约50×50mm",
+        "material": "纸"
+      },
+      "release_date": "2026-04-01",
+      "list_price_yen": 330,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/csfront-06-sticker-koto.jpg",
+          "thumbnail_path": "images/thumbs/csfront-06-sticker-koto.webp",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/261/GOODS-04758065.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AmiAmi",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04758065"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04758065",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "CS.FRONT",
+        "月之木古都"
+      ],
+      "notes": "发售时间公开到月份。"
+    },
+    {
+      "id": "csfront-06-passcase-koto",
+      "global_product_id": "csfront-06-passcase-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "レザーパスケース /06 月之木古都",
+      "name_zh": "CS.FRONT /06 皮革卡套 月之木古都",
+      "category_id": "accessory",
+      "campaign_id": "cs-front",
+      "manufacturer_id": "cs-front",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约102×72mm",
+        "material": "PU皮革、铁、黄铜"
+      },
+      "release_date": "2026-04-01",
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/csfront-06-passcase-koto.jpg",
+          "thumbnail_path": "images/thumbs/csfront-06-passcase-koto.webp",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/261/GOODS-04758074.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AmiAmi",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04758074"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04758074",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "CS.FRONT",
+        "月之木古都"
+      ],
+      "notes": "发售时间公开到月份。"
+    },
+    {
+      "id": "ramune-lab-ema-keychain-koto",
+      "global_product_id": "ramune-lab-ema-keychain-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "絵馬風キーホルダー 月之木古都",
+      "name_zh": "Ramune Lab 绘马风挂件 月之木古都",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "ramune-lab-plush-2026",
+      "manufacturer_id": "ramune-lab",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "亚克力"
+      },
+      "release_date": "2026-04-01",
+      "list_price_yen": 1100,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/ramune-lab-ema-keychain-koto.jpg",
+          "thumbnail_path": "images/thumbs/ramune-lab-ema-keychain-koto.webp",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/261/GOODS-04765821.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AmiAmi",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04765821"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04765821",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "月之木古都"
+      ],
+      "notes": "JAN 4573514548758；发售时间公开到月份。"
+    },
+    {
+      "id": "ramune-lab-acrylic-stand-koto",
+      "global_product_id": "ramune-lab-acrylic-stand-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "アクリルスタンド 月之木古都",
+      "name_zh": "Ramune Lab 亚克力立牌 月之木古都",
+      "category_id": "acrylic_stand",
+      "campaign_id": "ramune-lab-plush-2026",
+      "manufacturer_id": "ramune-lab",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约H200×W150×D3mm",
+        "material": "亚克力"
+      },
+      "release_date": "2026-04-01",
+      "list_price_yen": 2970,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/ramune-lab-acrylic-stand-koto.jpg",
+          "thumbnail_path": "images/thumbs/ramune-lab-acrylic-stand-koto.webp",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/261/GOODS-04765827.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AmiAmi",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04765827"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04765827",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "月之木古都"
+      ],
+      "notes": "JAN 4573514548819；发售时间公开到月份。"
+    },
+    {
+      "id": "bakudanyaki-sticker-set-koto",
+      "global_product_id": "bakudanyaki-sticker-set-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "×ばくだん焼本舗 ダイカットステッカーセット 月之木古都",
+      "name_zh": "爆弹烧本铺联动 异形贴纸套装 月之木古都",
+      "category_id": "sticker",
+      "campaign_id": "bakudanyaki-collaboration-2025",
+      "manufacturer_id": "contents-seed",
+      "variant": "月之木古都 2枚套装",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "纸"
+      },
+      "release_date": "2026-02-01",
+      "list_price_yen": 880,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/bakudanyaki-sticker-set-koto.jpg",
+          "thumbnail_path": "images/thumbs/bakudanyaki-sticker-set-koto.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4573654644228_1_1765537506.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Animate",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pd/3347582/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3347582/",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "爆弹烧",
+        "月之木古都"
+      ],
+      "notes": "Animate 标注2026年02月中旬发售；JAN 4573654644228。"
+    },
+    {
+      "id": "loft-cheerleader-mini-stand-koto",
+      "global_product_id": "loft-cheerleader-mini-stand",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディングミニアクリルスタンド 月之木古都",
+      "name_zh": "Loft 啦啦队 随机迷你亚克力立牌 月之木古都款",
+      "category_id": "acrylic_stand",
+      "campaign_id": "loft-cheerleader-2024",
+      "manufacturer_id": "philter-loft",
+      "variant": "随机9款中的月之木古都款",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": "高约50mm",
+        "material": "亚克力"
+      },
+      "release_date": "2024-11-13",
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/loft-cheerleader-mini-stand-koto.webp",
+          "thumbnail_path": "images/thumbs/loft-cheerleader-mini-stand-koto.webp",
+          "role": "product",
+          "source_url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561120266.jpg.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "P Anime Store",
+          "phase": "general_sale",
+          "url": "https://www.p-animestore.com/?pid=184530471"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000032.000090064.html",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        },
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/561120266",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Loft",
+        "啦啦队",
+        "随机",
+        "新规绘制",
+        "月之木古都"
+      ],
+      "notes": "官方活动阵容与单品详情图均确认月之木古都款。"
+    },
+    {
+      "id": "loft-cheerleader-name-badge-koto",
+      "global_product_id": "loft-cheerleader-name-badge",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "カプセルトイ おなまえアクリルバッジ 月之木古都",
+      "name_zh": "Loft 啦啦队 姓名亚克力徽章 月之木古都款",
+      "category_id": "can_badge",
+      "campaign_id": "loft-cheerleader-2024",
+      "manufacturer_id": "philter-loft",
+      "variant": "随机9款中的月之木古都款",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-11-13",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/loft-cheerleader-name-badge-koto.jpg",
+          "thumbnail_path": "images/thumbs/loft-cheerleader-name-badge-koto.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/90064/32/90064-32-28798ba6fa215b67a6b2c6566f79ec4b-2551x998.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "POP UP STORE in Loft",
+          "phase": "event_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000032.000090064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000032.000090064.html",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Loft",
+        "啦啦队",
+        "随机",
+        "新规绘制",
+        "月之木古都"
+      ],
+      "notes": "官方阵容图明确包含月之木古都款。"
+    },
+    {
+      "id": "loft-cheerleader-trading-badge-koto",
+      "global_product_id": "loft-cheerleader-trading-badge",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディング缶バッジ 月之木古都",
+      "name_zh": "Loft 啦啦队 随机徽章 月之木古都款",
+      "category_id": "can_badge",
+      "campaign_id": "loft-cheerleader-2024",
+      "manufacturer_id": "philter-loft",
+      "variant": "随机9款中的月之木古都款",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": "直径约56mm",
+        "material": "马口铁、合金、薄膜、纸"
+      },
+      "release_date": "2024-11-13",
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/loft-cheerleader-trading-badge-koto.webp",
+          "thumbnail_path": "images/thumbs/loft-cheerleader-trading-badge-koto.webp",
+          "role": "product",
+          "source_url": "https://cdn.suruga-ya.jp/database/pics_webp/game/871921933.jpg.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "P Anime Store",
+          "phase": "general_sale",
+          "url": "https://www.p-animestore.com/?pid=184530469"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000032.000090064.html",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        },
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/871921933",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Loft",
+        "啦啦队",
+        "随机",
+        "新规绘制",
+        "月之木古都"
+      ],
+      "notes": "官方活动阵容与单品详情图均确认月之木古都款。"
+    },
+    {
+      "id": "philter-trading-mini-plate-stand-koto",
+      "global_product_id": "philter-trading-mini-plate-stand",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トレーディングミニプレートスタンド 月之木古都",
+      "name_zh": "Philter 随机场景迷你亚克力牌 月之木古都款",
+      "category_id": "acrylic_stand",
+      "campaign_id": "philter-initial-goods-2025",
+      "manufacturer_id": "philter",
+      "variant": "随机10款中的月之木古都款",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 10
+      },
+      "spec": {
+        "size": "约60×40mm",
+        "material": "亚克力"
+      },
+      "release_date": "2025-02-28",
+      "list_price_yen": 880,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/philter-trading-mini-plate-stand-koto.webp",
+          "thumbnail_path": "images/thumbs/philter-trading-mini-plate-stand-koto.webp",
+          "role": "product",
+          "source_url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561052130.jpg.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "P Anime Store",
+          "phase": "general_sale",
+          "url": "https://www.p-animestore.com/?pid=183576444"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.p-animestore.com/?pid=183576444",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        },
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/561052130",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Philter",
+        "随机",
+        "场景图",
+        "月之木古都"
+      ],
+      "notes": "全10款阵容与单品详情图均确认月之木古都款。"
+    },
+    {
+      "id": "ensky-snapmide-koto",
+      "global_product_id": "ensky-snapmide-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "負けヒロインが多すぎる！ スナップマイド",
+      "name_zh": "Snapmide 随机卡片 月之木古都款",
+      "category_id": "card",
+      "campaign_id": "snapmide",
+      "manufacturer_id": "ensky",
+      "variant": "全48款中包含月之木古都图案",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 48
+      },
+      "spec": {
+        "size": "约87×54×1mm",
+        "material": "纸"
+      },
+      "release_date": "2025-01-24",
+      "list_price_yen": 275,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/ensky-snapmide-koto.jpg",
+          "thumbnail_path": "images/thumbs/ensky-snapmide-koto.webp",
+          "role": "lineup",
+          "source_url": "https://cdn11.bigcommerce.com/s-89ffd/images/stencil/1280x1280/products/166742/612294/ensky-there-are-too-many-losing-heroines-snap-myde-complete-box-set__73387.1735277168.jpg?c=2%3Fimbypass%3Don"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Hobby Search",
+          "phase": "general_sale",
+          "url": "https://www.1999.co.jp/11138260"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.1999.co.jp/11138260",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        },
+        {
+          "url": "https://www.plazajapan.com/4970381688271/",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "随机",
+        "拍立得风",
+        "月之木古都"
+      ],
+      "notes": "每包3张，1盒16包；全48款，完整阵容图可确认月之木古都角色卡。单包 JAN 4970381688271，盒装 JAN 4970381688288。"
+    },
+    {
+      "id": "ensky-travel-sticker-05-literature-club",
+      "global_product_id": "ensky-travel-sticker-05-literature-club",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "トラベルステッカー 5.文芸部",
+      "name_zh": "Ensky 旅行贴纸 5.文艺部",
+      "category_id": "sticker",
+      "campaign_id": "ensky-character-goods-2024",
+      "manufacturer_id": "ensky",
+      "variant": "文艺部群像图案包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约62×107mm",
+        "material": "YUPO 合成纸、哑光 PP"
+      },
+      "release_date": "2024-11-16",
+      "list_price_yen": 385,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/ensky-travel-sticker-05-literature-club.jpg",
+          "thumbnail_path": "images/thumbs/ensky-travel-sticker-05-literature-club.webp",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/243/GOODS-04531717.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AmiAmi",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04531717"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04531717",
+          "type": "retailer",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部",
+        "群像",
+        "月之木古都"
+      ],
+      "notes": "官方商品详图确认月之木古都位于文艺部群像中央。"
+    },
+    {
+      "character_id": "tsukinoki-koto",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "月之木古都"
+      ],
+      "id": "jr-central-2024-framed-stand-koto",
+      "global_product_id": "jr-central-2024-framed-stand-koto",
+      "name_ja": "JR東海 推し旅 2024 枠付きアクリルスタンド 月之木古都",
+      "name_zh": "JR东海 推し旅 2024 边框亚克力立牌 月之木古都",
+      "category_id": "acrylic_stand",
+      "variant": "月之木古都；全6款之一",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": "亚克力"
+      },
+      "list_price_yen": 1980,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-framed-stand-koto.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-framed-stand-koto.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "JR东海官方商品阵容图可确认月之木古都款。"
+    },
+    {
+      "character_id": "tsukinoki-koto",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "月之木古都"
+      ],
+      "id": "jr-central-2024-trading-badge",
+      "global_product_id": "jr-central-2024-trading-badge",
+      "name_ja": "JR東海 推し旅 2024 ブラインド缶バッジ",
+      "name_zh": "JR东海 推し旅 2024 随机徽章 月之木古都款",
+      "category_id": "can_badge",
+      "variant": "随机6款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": "纸、马口铁"
+      },
+      "list_price_yen": 550,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-trading-badge.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-trading-badge.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image02.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "盲抽商品；JR东海官方阵容图可确认月之木古都图案。"
+    },
+    {
+      "character_id": "tsukinoki-koto",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "月之木古都"
+      ],
+      "id": "jr-central-2024-trading-acrylic-card",
+      "global_product_id": "jr-central-2024-trading-acrylic-card",
+      "name_ja": "JR東海 推し旅 2024 トレーディングアクリルカード",
+      "name_zh": "JR东海 推し旅 2024 随机亚克力卡 月之木古都款",
+      "category_id": "card",
+      "variant": "随机6款包含月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": "亚克力"
+      },
+      "list_price_yen": 770,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-trading-acrylic-card.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-trading-acrylic-card.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image03.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "盲抽商品；JR东海官方阵容图可确认月之木古都图案。"
+    },
+    {
+      "character_id": "tsukinoki-koto",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "月之木古都"
+      ],
+      "id": "jr-central-2024-clear-file",
+      "global_product_id": "jr-central-2024-clear-file",
+      "name_ja": "JR東海 推し旅 2024 A4クリアファイル",
+      "name_zh": "JR东海 推し旅 2024 A4透明文件夹",
+      "category_id": "clear_file",
+      "variant": "6人群像图案包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "A4",
+        "material": "PP"
+      },
+      "list_price_yen": 550,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-clear-file.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-clear-file.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image04.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "正面为6人群像，背面为角色领结图案。"
+    },
+    {
+      "character_id": "tsukinoki-koto",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "月之木古都"
+      ],
+      "id": "jr-central-2024-postcard-set",
+      "global_product_id": "jr-central-2024-postcard-set",
+      "name_ja": "JR東海 推し旅 2024 ポストカードセット",
+      "name_zh": "JR东海 推し旅 2024 明信片6枚套装",
+      "category_id": "card",
+      "variant": "6枚套装包含月之木古都",
+      "sale_format": {
+        "type": "set",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": "明信片尺寸",
+        "material": "纸"
+      },
+      "list_price_yen": 880,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-postcard-set.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-postcard-set.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image05.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "固定6枚套装，其中1枚为月之木古都。"
+    },
+    {
+      "character_id": "tsukinoki-koto",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "月之木古都"
+      ],
+      "id": "jr-central-2024-bookmark-koto",
+      "global_product_id": "jr-central-2024-bookmark-koto",
+      "name_ja": "JR東海 推し旅 2024 オリジナル栞 月之木古都",
+      "name_zh": "JR东海 推し旅 2024 店铺特典书签 月之木古都",
+      "category_id": "stationery",
+      "variant": "月之木古都；全6款之一",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": "纸"
+      },
+      "list_price_yen": 0,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-bookmark-koto.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-bookmark-koto.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/bookmark-04.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "emCAMPUS FOOD / ひとひとCAFE",
+          "phase": "purchase_bonus",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "在月之木古都对应地点的指定店铺消费满500日元并说出活动口令后领取。"
+    },
+    {
+      "character_id": "tsukinoki-koto",
+      "campaign_id": "chara-in-line-art",
+      "manufacturer_id": "tosyo-chara-in",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "release_date": "2025-01-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "tags": [
+        "动画版",
+        "线稿",
+        "月之木古都"
+      ],
+      "notes": null,
+      "id": "tosyo-lineart-bookmarker-koto",
+      "global_product_id": "tosyo-lineart-bookmarker-koto",
+      "name_ja": "ブックマーカー・月之木古都",
+      "name_zh": "线稿书签 月之木古都",
+      "category_id": "stationery",
+      "spec": {
+        "size": "约W45×H100mm",
+        "material": "玻璃、锌合金、黄铜"
+      },
+      "list_price_yen": 1980,
+      "images": [
+        {
+          "path": "images/items/tosyo-lineart-bookmarker-koto.jpg",
+          "thumbnail_path": "images/thumbs/tosyo-lineart-bookmarker-koto.webp",
+          "role": "product",
+          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983401024.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "日本邮便局网上商店",
+          "phase": "general_sale",
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983401024/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983401024/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "character_id": "tsukinoki-koto",
+      "campaign_id": "chara-in-line-art",
+      "manufacturer_id": "tosyo-chara-in",
+      "variant": "月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "release_date": "2025-01-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "tags": [
+        "动画版",
+        "线稿",
+        "月之木古都"
+      ],
+      "notes": null,
+      "id": "tosyo-lineart-block-keyholder-koto",
+      "global_product_id": "tosyo-lineart-block-keyholder-koto",
+      "name_ja": "アクリルブロックキーホルダー・月之木古都",
+      "name_zh": "线稿亚克力块挂件 月之木古都",
+      "category_id": "acrylic_keychain",
+      "spec": {
+        "size": "约W50×H50×D10mm",
+        "material": "亚克力、珠链"
+      },
+      "list_price_yen": 1320,
+      "images": [
+        {
+          "path": "images/items/tosyo-lineart-block-keyholder-koto.jpg",
+          "thumbnail_path": "images/thumbs/tosyo-lineart-block-keyholder-koto.webp",
+          "role": "product",
+          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983401033.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "日本邮便局网上商店",
+          "phase": "general_sale",
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983401033/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983401033/",
+          "type": "official",
+          "checked_at": "2026-10-14"
+        }
+      ]
+    }
+  ]
+}

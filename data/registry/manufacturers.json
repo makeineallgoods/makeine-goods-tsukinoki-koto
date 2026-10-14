@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-14",
+  "manufacturers": [
+    {
+      "id": "arma-bianca",
+      "name_zh": "arma bianca",
+      "name_ja": "arma bianca",
+      "aliases": [
+        "アルマビアンカ"
+      ]
+    },
+    {
+      "id": "contents-seed",
+      "name_zh": "コンテンツシード",
+      "name_ja": "コンテンツシード",
+      "aliases": []
+    },
+    {
+      "id": "contents-seed-yurakucho-marui",
+      "name_zh": "コンテンツシード / 有楽町マルイ",
+      "name_ja": "コンテンツシード / 有楽町マルイ",
+      "aliases": []
+    },
+    {
+      "id": "eterno-recit",
+      "name_zh": "Eterno Récit",
+      "name_ja": "Eterno Récit",
+      "aliases": []
+    },
+    {
+      "id": "gagaga-shop-online",
+      "name_zh": "GAGAGA SHOP ONLINE",
+      "name_ja": "GAGAGA SHOP ONLINE",
+      "aliases": []
+    },
+    {
+      "id": "key-th-curtain-damashii",
+      "name_zh": "Key-th / カーテン魂",
+      "name_ja": "Key-th / カーテン魂",
+      "aliases": []
+    },
+    {
+      "id": "tosyo",
+      "name_zh": "TOSYO",
+      "name_ja": "TOSYO",
+      "aliases": []
+    },
+    {
+      "id": "tosyo-chara-in",
+      "name_zh": "TOSYO / キャラ印",
+      "name_ja": "TOSYO / キャラ印",
+      "aliases": []
+    },
+    {
+      "id": "tosyo-japan-post",
+      "name_zh": "TOSYO / 郵便局物販サービス",
+      "name_ja": "TOSYO / 郵便局物販サービス",
+      "aliases": []
+    },
+    {
+      "id": "tsutaya",
+      "name_zh": "TSUTAYA",
+      "name_ja": "TSUTAYA",
+      "aliases": [
+        "カルチュア・コンビニエンス・クラブ"
+      ]
+    },
+    {
+      "id": "bell-house",
+      "name_zh": "Bell House",
+      "name_ja": "ベルハウス",
+      "official_url": "https://bellhouse-shop.com/"
+    },
+    {
+      "id": "hobby-stock",
+      "name_zh": "ホビーストック",
+      "name_ja": "ホビーストック",
+      "aliases": []
+    },
+    {
+      "id": "philter",
+      "name_zh": "Philter",
+      "name_ja": "フィルター・インク",
+      "aliases": []
+    },
+    {
+      "id": "ramune-lab",
+      "name_zh": "Ramune Lab",
+      "name_ja": "ラムネラボ",
+      "aliases": [
+        "株式会社ラムネラボ"
+      ]
+    },
+    {
+      "id": "cs-front",
+      "name_zh": "CS.FRONT",
+      "name_ja": "CS.FRONT",
+      "aliases": []
+    },
+    {
+      "id": "philter-loft",
+      "name_zh": "Philter / Loft",
+      "name_ja": "フィルター・インク / ロフト",
+      "aliases": [
+        "マケインロフト"
+      ]
+    },
+    {
+      "id": "ensky",
+      "name_zh": "Ensky",
+      "name_ja": "エンスカイ",
+      "aliases": []
+    },
+    {
+      "id": "anican",
+      "name_zh": "AniCan",
+      "name_ja": "アニキャン",
+      "aliases": [
+        "株式会社アニキャン"
+      ]
+    }
+  ]
+}
