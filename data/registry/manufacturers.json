@@ -125,6 +125,12 @@
       "name_zh": "ブシロード",
       "name_ja": "ブシロード",
       "aliases": []
+    },
+    {
+      "id": "shogakukan-gagaga-bunko",
+      "name_zh": "小学館 / ガガガ文庫",
+      "name_ja": "小学館 / ガガガ文庫",
+      "aliases": []
     }
   ]
 }

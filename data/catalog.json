@@ -6029,6 +6029,11 @@
           "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
           "type": "official",
           "checked_at": "2026-10-14"
+        },
+        {
+          "url": "https://anican.shop/items/66713760e2a988031e9a8b5e",
+          "type": "official",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
@@ -6057,7 +6062,7 @@
           "path": "images/items/jr-central-2024-framed-stand-koto.jpg",
           "thumbnail_path": "images/thumbs/jr-central-2024-framed-stand-koto.webp",
           "role": "product",
-          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image01.jpg"
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/65efbbe1bd9ebe002a0e3175/b72b90365e1ae021c106.jpg/original"
         }
       ],
       "sales": [
@@ -6067,7 +6072,7 @@
           "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
         }
       ],
-      "notes": "JR东海官方商品阵容图可确认月之木古都款。"
+      "notes": "アニキャン官方商品页提供月之木古都款单品图。"
     },
     {
       "character_id": "tsukinoki-koto",
@@ -6311,7 +6316,7 @@
         "size": null,
         "material": "纸"
       },
-      "list_price_yen": 0,
+      "list_price_yen": null,
       "images": [
         {
           "path": "images/items/jr-central-2024-bookmark-koto.jpg",
@@ -6701,6 +6706,59 @@
         "随机"
       ],
       "notes": "同时购买痛印与印章盒，每套随机赠送1枚；数量有限，非卖品。"
+    },
+    {
+      "id": "anime-adaptation-cutout-bookmark-koto",
+      "global_product_id": "anime-adaptation-cutout-bookmark-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "キャラクター抜きしおり 月之木古都",
+      "name_zh": "动画化纪念购书赠品 角色镂空书签 月之木古都",
+      "category_id": "stationery",
+      "campaign_id": "anime-adaptation-book-fair-2024",
+      "manufacturer_id": "shogakukan-gagaga-bunko",
+      "variant": "全6款中的月之木古都款",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": "约125×45mm",
+        "material": "透明塑料"
+      },
+      "release_date": "2024-06-28",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/anime-adaptation-cutout-bookmark-koto.webp",
+          "thumbnail_path": "images/thumbs/anime-adaptation-cutout-bookmark-koto.webp",
+          "role": "product",
+          "source_url": "https://cdn.suruga-ya.jp/database/pics_webp/game/560541378.jpg.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动对象书店",
+          "phase": "purchase_bonus",
+          "url": "https://www.shogakukan.co.jp/pr/makeine2406.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.shogakukan.co.jp/pr/makeine2406.pdf",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "动画化纪念",
+        "购书特典",
+        "书签",
+        "月之木古都"
+      ],
+      "notes": "购买《败犬女主太多了！@comic》对象漫画每册赠1张，赠完即止；当前使用月之木古都单品图。"
     }
   ]
 }
