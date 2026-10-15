@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-14",
+  "updated_at": "2026-10-15",
   "campaigns": [
     {
       "id": "amnibus-chibitoko-2024",
@@ -280,6 +280,24 @@
       ],
       "year": 2024,
       "official_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+    },
+    {
+      "id": "bushiroad-clear-card-collection-2025",
+      "name_zh": "Bushiroad 透明收藏卡",
+      "name_ja": "ブシロード トレーディングカード コレクションクリア",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://bushiroad.com/products/ex_btc/2621"
+    },
+    {
+      "id": "itaindou-makeine-2024",
+      "name_zh": "败犬女主太多了 × 痛印堂",
+      "name_ja": "負けヒロインが多すぎる！×痛印堂",
+      "aliases": [
+        "マケ印"
+      ],
+      "year": 2024,
+      "official_url": "https://www.itaindou.com/pages/makeine"
     }
   ]
 }

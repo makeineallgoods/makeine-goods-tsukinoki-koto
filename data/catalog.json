@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "registry_version": "2026-10-14",
+  "registry_version": "2026-10-15",
   "catalog": {
     "title": "月之木古都制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含月之木古都的官方实体制品",
-    "updated_at": "2026-10-14",
+    "updated_at": "2026-10-15",
     "status": "collecting"
   },
   "character": {
@@ -1271,7 +1271,14 @@
       "list_price_yen": 770,
       "official_status": "official",
       "verification": "confirmed_text",
-      "images": [],
+      "images": [
+        {
+          "path": "images/items/eternorecit-nameplate-koto.jpg",
+          "thumbnail_path": "images/thumbs/eternorecit-nameplate-koto.webp",
+          "role": "product",
+          "source_url": "https://goodsrepublic.com/media/binary/013/645/190/13645190.jpg"
+        }
+      ],
       "sales": [
         {
           "seller": "Eterno Récit",
@@ -1292,7 +1299,7 @@
         "爱心Q版",
         "月之木古都"
       ],
-      "notes": "Eterno Récit 官方联动页明确列出月之木古都款；官网原商品图地址当前返回 404，暂不以角色立绘或其他角色单品图代替。"
+      "notes": "Eterno Récit 官方联动页明确列出月之木古都款；官网原商品图地址已失效，当前商品图取自 Goods Republic 保留的月之木古都单品图。"
     },
     {
       "id": "eternorecit-keychain-koto",
@@ -1316,7 +1323,14 @@
       "list_price_yen": 880,
       "official_status": "official",
       "verification": "confirmed_text",
-      "images": [],
+      "images": [
+        {
+          "path": "images/items/eternorecit-keychain-koto.jpg",
+          "thumbnail_path": "images/thumbs/eternorecit-keychain-koto.webp",
+          "role": "product",
+          "source_url": "https://goodsrepublic.com/media/binary/013/645/335/13645335.jpg"
+        }
+      ],
       "sales": [
         {
           "seller": "Eterno Récit",
@@ -1337,7 +1351,7 @@
         "爱心Q版",
         "月之木古都"
       ],
-      "notes": "Eterno Récit 官方联动页明确列出月之木古都款；官网原商品图地址当前返回 404，暂不以角色立绘或其他角色单品图代替。"
+      "notes": "Eterno Récit 官方联动页明确列出月之木古都款；官网原商品图地址已失效，当前商品图取自 Goods Republic 保留的月之木古都单品图。"
     },
     {
       "id": "eternorecit-stand-keyholder-koto",
@@ -1361,7 +1375,14 @@
       "list_price_yen": 990,
       "official_status": "official",
       "verification": "confirmed_text",
-      "images": [],
+      "images": [
+        {
+          "path": "images/items/eternorecit-stand-keyholder-koto.jpg",
+          "thumbnail_path": "images/thumbs/eternorecit-stand-keyholder-koto.webp",
+          "role": "product",
+          "source_url": "https://goodsrepublic.com/media/binary/013/645/311/13645311.jpg"
+        }
+      ],
       "sales": [
         {
           "seller": "Eterno Récit",
@@ -1382,7 +1403,7 @@
         "爱心Q版",
         "月之木古都"
       ],
-      "notes": "Eterno Récit 官方联动页明确列出月之木古都款；官网原商品图地址当前返回 404，暂不以角色立绘或其他角色单品图代替。"
+      "notes": "Eterno Récit 官方联动页明确列出月之木古都款；官网原商品图地址已失效，当前商品图取自 Goods Republic 保留的月之木古都单品图。"
     },
     {
       "id": "eternorecit-sacoche-koto",
@@ -6409,6 +6430,277 @@
           "checked_at": "2026-10-14"
         }
       ]
+    },
+    {
+      "id": "bushiroad-clear-card-collection-koto",
+      "global_product_id": "bushiroad-clear-card-collection-2025",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "ブシロード トレーディングカード コレクションクリア",
+      "name_zh": "Bushiroad 随机透明收藏卡 月之木古都款",
+      "category_id": "card",
+      "campaign_id": "bushiroad-clear-card-collection-2025",
+      "manufacturer_id": "bushiroad",
+      "variant": "全28款中含 No.07、No.21 两款月之木古都",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 28
+      },
+      "spec": {
+        "size": "63×89mm",
+        "material": "塑料透明卡"
+      },
+      "release_date": "2025-02-21",
+      "list_price_yen": 110,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/bushiroad-clear-card-koto-no07.jpg",
+          "thumbnail_path": "images/thumbs/bushiroad-clear-card-koto-no07.webp",
+          "role": "product",
+          "source_url": "https://shop.r10s.jp/realize-store/cabinet/gachapon2/d2/btccmkh00007.jpg"
+        },
+        {
+          "path": "images/items/bushiroad-clear-card-koto-no21.jpg",
+          "thumbnail_path": "images/thumbs/bushiroad-clear-card-koto-no21.webp",
+          "role": "product",
+          "source_url": "https://shop.r10s.jp/realize-store/cabinet/gachapon2/d2/btccmkh00021.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ブシロード",
+          "phase": "general_sale",
+          "url": "https://bushiroad.com/products/ex_btc/2621"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://bushiroad.com/products/ex_btc/2621",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/realize-store/222502s87mkht07/",
+          "type": "seller",
+          "checked_at": "2026-10-15"
+        },
+        {
+          "url": "https://dp00013984.shop-pro.jp/?pid=185019954",
+          "type": "seller",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "月之木古都",
+        "随机"
+      ],
+      "notes": "No.07 为角色立绘款，No.21 为场面图款；按实际销售的28种随机卡商品记录为1件。"
+    },
+    {
+      "id": "itaindou-stamp-koto",
+      "global_product_id": "itaindou-stamp-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "月之木古都・丸印18mm",
+      "name_zh": "痛印堂 月之木古都 定制圆形印章",
+      "category_id": "accessory",
+      "campaign_id": "itaindou-makeine-2024",
+      "manufacturer_id": "tosyo",
+      "variant": "月之木古都 普通版；印面最多定制6字",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 18
+      },
+      "spec": {
+        "size": "圆印18mm",
+        "material": "柘木"
+      },
+      "release_date": "2024-09-25",
+      "list_price_yen": 4620,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/itaindou-stamp-koto.jpg",
+          "thumbnail_path": "images/thumbs/itaindou-stamp-koto.webp",
+          "role": "product",
+          "source_url": "https://www.itaindou.com/cdn/shop/files/18mm_2744209d-ae5f-4ca8-b8da-d6e208254a27.jpg?v=1726215132"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "痛印堂",
+          "phase": "made_to_order",
+          "url": "https://www.itaindou.com/products/hankmho0006"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.itaindou.com/products/hankmho0006",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "月之木古都"
+      ],
+      "notes": "受注生产；可在印面定制最多6个字符。"
+    },
+    {
+      "id": "itaindou-chibi-stamp-koto",
+      "global_product_id": "itaindou-chibi-stamp-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "月之木古都・ミニキャラ・丸印18mm",
+      "name_zh": "痛印堂 月之木古都 Q版定制圆形印章",
+      "category_id": "accessory",
+      "campaign_id": "itaindou-makeine-2024",
+      "manufacturer_id": "tosyo",
+      "variant": "月之木古都 Q版；印面最多定制6字",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 18
+      },
+      "spec": {
+        "size": "圆印18mm",
+        "material": "柘木"
+      },
+      "release_date": "2024-09-25",
+      "list_price_yen": 4620,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/itaindou-chibi-stamp-koto.jpg",
+          "thumbnail_path": "images/thumbs/itaindou-chibi-stamp-koto.webp",
+          "role": "product",
+          "source_url": "https://www.itaindou.com/cdn/shop/files/18mm_1bf9716b-e3f5-4807-ac4f-7dc48af3eabf.jpg?v=1726215961"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "痛印堂",
+          "phase": "made_to_order",
+          "url": "https://www.itaindou.com/products/hankmho0015"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.itaindou.com/products/hankmho0015",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "月之木古都"
+      ],
+      "notes": "受注生产；痛印堂原创Q版图案，可在印面定制最多6个字符。"
+    },
+    {
+      "id": "itaindou-chibi-seal-case",
+      "global_product_id": "itaindou-chibi-seal-case",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "印鑑ケース・マケインミニキャラver.",
+      "name_zh": "痛印堂 败犬女主 Q版群像印章盒",
+      "category_id": "accessory",
+      "campaign_id": "itaindou-makeine-2024",
+      "manufacturer_id": "tosyo",
+      "variant": "九人Q版总花纹包含月之木古都",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 2
+      },
+      "spec": {
+        "size": "W40×H98mm；可收纳18mm圆印",
+        "material": "合成皮革"
+      },
+      "release_date": "2024-09-25",
+      "list_price_yen": 2970,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/itaindou-chibi-seal-case.webp",
+          "thumbnail_path": "images/thumbs/itaindou-chibi-seal-case.webp",
+          "role": "product",
+          "source_url": "https://www.itaindou.com/cdn/shop/files/make_case.webp?v=17897526079836286955"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "痛印堂",
+          "phase": "made_to_order",
+          "url": "https://www.itaindou.com/products/hacamho0002"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.itaindou.com/products/hacamho0002",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "月之木古都"
+      ],
+      "notes": "内置朱肉；总花纹采用包括月之木古都在内的九位角色原创Q版图案。"
+    },
+    {
+      "id": "itaindou-chibi-badge-bonus-koto",
+      "global_product_id": "itaindou-chibi-badge-bonus-koto",
+      "character_id": "tsukinoki-koto",
+      "name_ja": "購入特典 描き起こしミニキャラ缶バッジ 月之木古都",
+      "name_zh": "痛印堂套装购入特典 Q版徽章 月之木古都",
+      "category_id": "can_badge",
+      "campaign_id": "itaindou-makeine-2024",
+      "manufacturer_id": "tosyo",
+      "variant": "随机全9款中的月之木古都款",
+      "sale_format": {
+        "type": "bonus",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-09-25",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/itaindou-chibi-badge-bonus-koto.webp",
+          "thumbnail_path": "images/thumbs/itaindou-chibi-badge-bonus-koto.webp",
+          "role": "bonus",
+          "source_url": "https://www.itaindou.com/cdn/shop/files/make_badge06.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "痛印堂",
+          "phase": "purchase_bonus",
+          "url": "https://www.itaindou.com/pages/makeine"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.itaindou.com/pages/makeine",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "痛印堂",
+        "月之木古都",
+        "非卖品",
+        "特典",
+        "随机"
+      ],
+      "notes": "同时购买痛印与印章盒，每套随机赠送1枚；数量有限，非卖品。"
     }
   ]
 }
