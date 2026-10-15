@@ -2167,18 +2167,18 @@
       "notes": null
     },
     {
-      "id": "amnibus-nonhoi-chibi-mug",
-      "global_product_id": "amnibus-nonhoi-chibi-mug",
+      "id": "amnibus-nonhoi-chibi-plant-mug",
+      "global_product_id": "amnibus-nonhoi-chibi-plant-mug",
       "character_id": "tsukinoki-koto",
-      "name_ja": "ちびキャラ アトラクションver. マグカップ",
-      "name_zh": "丰桥动物园 Q 版游乐设施马克杯",
+      "name_ja": "ちびキャラ 植物ver. マグカップ",
+      "name_zh": "丰桥动物园 Q 版植物马克杯",
       "category_id": "tableware",
       "campaign_id": "nonhoi-park",
       "manufacturer_id": "arma-bianca",
-      "variant": "群像图案包含月之木古都",
+      "variant": "植物版图案包含月之木古都",
       "sale_format": {
         "type": "single",
-        "total_variants": null
+        "total_variants": 2
       },
       "spec": {
         "size": "直径约82×H95mm",
@@ -2190,10 +2190,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/amnibus-nonhoi-chibi-mug.jpg",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-b88f22e3fbc32f789cc1fb3aa22cdf77-1350x1500.jpg",
-          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-mug.webp"
+          "path": "images/items/amnibus-nonhoi-chibi-plant-mug.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-plant-mug.webp",
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-94d9c0fa69c5028455aeeebee54311db-1350x1500.jpg"
         }
       ],
       "sales": [
@@ -2213,9 +2213,10 @@
       "tags": [
         "丰桥动物园",
         "Q版",
+        "植物版",
         "月之木古都"
       ],
-      "notes": null
+      "notes": "官方商品图与角色阵容确认：植物版图案包含月之木古都。"
     },
     {
       "id": "gagaga-j20220038",
@@ -3523,8 +3524,8 @@
         {
           "path": "images/items/thechara-pale-keychain-koto.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-keychain-koto.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-03e5bad2e1da5757f2b4128449646d23-800x800.jpg"
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181249_6a336ad7e12db.jpg"
         }
       ],
       "sales": [
@@ -3539,6 +3540,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907444/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
@@ -3677,8 +3683,8 @@
         {
           "path": "images/items/thechara-pale-stand-koto.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-stand-koto.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-da40a66e309fb46972f60a6ae15b6dcc-800x800.jpg"
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181256_6a336c631082f.jpg"
         }
       ],
       "sales": [
@@ -3693,6 +3699,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907451/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
@@ -3937,8 +3948,8 @@
         {
           "path": "images/items/thechara-pale-tapestry-koto.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-tapestry-koto.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-89db8191d24bf0399d1bd811aef20e51-800x800.jpg"
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181314_6a3370b9654f0.jpg"
         }
       ],
       "sales": [
@@ -3953,6 +3964,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907468/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
@@ -3989,8 +4005,8 @@
         {
           "path": "images/items/thechara-pale-microfiber-koto.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-microfiber-koto.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-d0515c45f46168109a556cf486e03e9e-800x800.jpg"
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181309_6a336f90e921e.jpg"
         }
       ],
       "sales": [
@@ -4005,6 +4021,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907461/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
